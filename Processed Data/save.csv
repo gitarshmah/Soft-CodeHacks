@@ -1,0 +1,2015 @@
+,State_Name,District_Name,Season,Crop
+0,Madhya Pradesh,BALAGHAT,Kharif     ,banana
+1,Madhya Pradesh,BALAGHAT,Rabi       ,banana
+2,Madhya Pradesh,BALAGHAT,Whole Year ,banana
+3,Madhya Pradesh,NEEMUCH,Kharif     ,jute
+4,Madhya Pradesh,NEEMUCH,Rabi       ,jute
+5,Madhya Pradesh,NEEMUCH,Whole Year ,jute
+6,Madhya Pradesh,RAJGARH,Kharif     ,maize
+7,Madhya Pradesh,RAJGARH,Rabi       ,maize
+8,Madhya Pradesh,RAJGARH,Whole Year ,maize
+9,Madhya Pradesh,RATLAM,Kharif     ,maize
+10,Madhya Pradesh,RATLAM,Rabi       ,maize
+11,Madhya Pradesh,RATLAM,Whole Year ,maize
+12,Madhya Pradesh,REWA,Kharif     ,maize
+13,Madhya Pradesh,REWA,Rabi       ,maize
+14,Madhya Pradesh,REWA,Whole Year ,maize
+15,Madhya Pradesh,SAGAR,Kharif     ,maize
+16,Madhya Pradesh,SAGAR,Rabi       ,maize
+17,Madhya Pradesh,SAGAR,Whole Year ,maize
+18,Madhya Pradesh,SATNA,Kharif     ,mango
+19,Madhya Pradesh,SATNA,Rabi       ,mango
+20,Tamil Nadu,KANCHIPURAM,Kharif     ,rice
+21,Tamil Nadu,KANCHIPURAM,Rabi       ,rice
+22,Tamil Nadu,KANCHIPURAM,Whole Year ,rice
+23,Tamil Nadu,KANNIYAKUMARI,Kharif     ,rice
+24,Tamil Nadu,KANNIYAKUMARI,Rabi       ,rice
+25,Tamil Nadu,KANNIYAKUMARI,Whole Year ,rice
+26,Tamil Nadu,KARUR,Kharif     ,rice
+27,Tamil Nadu,KARUR,Rabi       ,rice
+28,Tamil Nadu,KARUR,Whole Year ,rice
+29,Tamil Nadu,KRISHNAGIRI,Kharif     ,rice
+30,Tamil Nadu,KRISHNAGIRI,Rabi       ,rice
+31,Tamil Nadu,KRISHNAGIRI,Whole Year ,rice
+32,Tamil Nadu,MADURAI,Kharif     ,rice
+33,Tamil Nadu,MADURAI,Rabi       ,rice
+34,Tamil Nadu,MADURAI,Whole Year ,rice
+35,Tamil Nadu,NAGAPATTINAM,Kharif     ,rice
+36,Tamil Nadu,NAGAPATTINAM,Rabi       ,rice
+37,Andhra Pradesh,ANANTAPUR,Kharif     ,apple
+38,Andhra Pradesh,ANANTAPUR,Kharif     ,pomegranate
+39,Andhra Pradesh,CHITTOOR,Kharif     ,pomegranate
+40,Andhra Pradesh,EAST GODAVARI,Kharif     ,pomegranate
+41,Andhra Pradesh,KADAPA,Kharif     ,pomegranate
+42,Andhra Pradesh,KRISHNA,Kharif     ,pomegranate
+43,Andhra Pradesh,KURNOOL,Kharif     ,pomegranate
+44,Andhra Pradesh,PRAKASAM,Kharif     ,pomegranate
+45,Andhra Pradesh,SPSR NELLORE,Kharif     ,pomegranate
+46,Andhra Pradesh,VIZIANAGARAM,Kharif     ,pomegranate
+47,Kerala,IDUKKI,Whole Year ,coffee
+48,Kerala,PALAKKAD,Whole Year ,coffee
+49,Kerala,WAYANAD,Whole Year ,coffee
+50,Andhra Pradesh,ANANTAPUR,Kharif     ,papaya
+51,Andhra Pradesh,CHITTOOR,Kharif     ,papaya
+52,Andhra Pradesh,EAST GODAVARI,Kharif     ,papaya
+53,Andhra Pradesh,GUNTUR,Kharif     ,papaya
+54,Andhra Pradesh,KADAPA,Kharif     ,papaya
+55,Andhra Pradesh,KADAPA,Rabi       ,papaya
+56,Andhra Pradesh,KRISHNA,Kharif     ,papaya
+57,Andhra Pradesh,KURNOOL,Kharif     ,papaya
+58,Andhra Pradesh,KURNOOL,Rabi       ,papaya
+59,Andhra Pradesh,PRAKASAM,Kharif     ,papaya
+60,Andhra Pradesh,SPSR NELLORE,Kharif     ,papaya
+61,Andhra Pradesh,SRIKAKULAM,Kharif     ,papaya
+62,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,papaya
+63,Andhra Pradesh,VIZIANAGARAM,Kharif     ,papaya
+64,Andhra Pradesh,VIZIANAGARAM,Rabi       ,papaya
+65,Andhra Pradesh,WEST GODAVARI,Kharif     ,papaya
+66,Assam,BAKSA,Kharif     ,papaya
+67,Assam,BARPETA,Kharif     ,papaya
+68,Assam,BONGAIGAON,Kharif     ,papaya
+69,Assam,CACHAR,Kharif     ,papaya
+70,Assam,CHIRANG,Kharif     ,papaya
+71,Assam,DARRANG,Kharif     ,papaya
+72,Assam,DHEMAJI,Kharif     ,papaya
+73,Assam,DHUBRI,Kharif     ,papaya
+74,Assam,DIBRUGARH,Kharif     ,papaya
+75,Assam,DIMA HASAO,Kharif     ,papaya
+76,Assam,GOALPARA,Kharif     ,papaya
+77,Assam,GOLAGHAT,Kharif     ,papaya
+78,Assam,HAILAKANDI,Kharif     ,papaya
+79,Assam,JORHAT,Kharif     ,papaya
+80,Assam,KAMRUP,Kharif     ,papaya
+81,Assam,KAMRUP METRO,Kharif     ,papaya
+82,Assam,KARBI ANGLONG,Kharif     ,papaya
+83,Assam,KARIMGANJ,Kharif     ,papaya
+84,Assam,KOKRAJHAR,Kharif     ,papaya
+85,Assam,LAKHIMPUR,Kharif     ,papaya
+86,Assam,MARIGAON,Kharif     ,papaya
+87,Assam,NAGAON,Kharif     ,papaya
+88,Assam,NALBARI,Kharif     ,papaya
+89,Assam,SIVASAGAR,Kharif     ,papaya
+90,Assam,SONITPUR,Kharif     ,papaya
+91,Assam,TINSUKIA,Kharif     ,papaya
+92,Assam,UDALGURI,Kharif     ,papaya
+93,Kerala,ALAPPUZHA,Whole Year ,papaya
+94,Andhra Pradesh,ANANTAPUR,Whole Year ,orange
+95,Andhra Pradesh,CHITTOOR,Whole Year ,orange
+96,Andhra Pradesh,EAST GODAVARI,Whole Year ,orange
+97,Andhra Pradesh,GUNTUR,Whole Year ,orange
+98,Andhra Pradesh,KADAPA,Whole Year ,orange
+99,Andhra Pradesh,KRISHNA,Whole Year ,orange
+100,Andhra Pradesh,KURNOOL,Whole Year ,orange
+101,Andhra Pradesh,PRAKASAM,Whole Year ,orange
+102,Andhra Pradesh,SPSR NELLORE,Whole Year ,orange
+103,Andhra Pradesh,VISAKHAPATANAM,Whole Year ,orange
+104,Andhra Pradesh,VIZIANAGARAM,Whole Year ,orange
+105,Andhra Pradesh,WEST GODAVARI,Whole Year ,orange
+106,Assam,BARPETA,Whole Year ,orange
+107,Assam,BONGAIGAON,Whole Year ,orange
+108,Assam,CACHAR,Whole Year ,orange
+109,Assam,DARRANG,Whole Year ,orange
+110,Assam,DHEMAJI,Whole Year ,orange
+111,Assam,DHUBRI,Whole Year ,orange
+112,Assam,DIBRUGARH,Whole Year ,orange
+113,Assam,DIMA HASAO,Whole Year ,orange
+114,Assam,GOALPARA,Whole Year ,orange
+115,Assam,GOLAGHAT,Whole Year ,orange
+116,Assam,HAILAKANDI,Whole Year ,orange
+117,Assam,JORHAT,Whole Year ,orange
+118,Assam,KAMRUP,Whole Year ,orange
+119,Assam,KARBI ANGLONG,Whole Year ,orange
+120,Assam,KARIMGANJ,Whole Year ,orange
+121,Assam,KOKRAJHAR,Whole Year ,orange
+122,Assam,LAKHIMPUR,Whole Year ,orange
+123,Assam,MARIGAON,Whole Year ,orange
+124,Assam,NAGAON,Whole Year ,orange
+125,Assam,NALBARI,Whole Year ,orange
+126,Assam,SIVASAGAR,Whole Year ,orange
+127,Assam,SONITPUR,Whole Year ,orange
+128,Assam,TINSUKIA,Whole Year ,orange
+129,Madhya Pradesh,ASHOKNAGAR,Whole Year ,orange
+130,Madhya Pradesh,BALAGHAT,Whole Year ,orange
+131,Madhya Pradesh,BARWANI,Whole Year ,orange
+132,Madhya Pradesh,BETUL,Whole Year ,orange
+133,Madhya Pradesh,BHOPAL,Whole Year ,orange
+134,Madhya Pradesh,BURHANPUR,Whole Year ,orange
+135,Madhya Pradesh,CHHATARPUR,Whole Year ,orange
+136,Madhya Pradesh,CHHINDWARA,Whole Year ,orange
+137,Madhya Pradesh,DEWAS,Whole Year ,orange
+138,Madhya Pradesh,HARDA,Whole Year ,orange
+139,Madhya Pradesh,HOSHANGABAD,Whole Year ,orange
+140,Madhya Pradesh,JHABUA,Whole Year ,orange
+141,Madhya Pradesh,KHANDWA,Whole Year ,orange
+142,Madhya Pradesh,KHARGONE,Whole Year ,orange
+143,Madhya Pradesh,MANDSAUR,Whole Year ,orange
+144,Madhya Pradesh,NARSINGHPUR,Whole Year ,orange
+145,Madhya Pradesh,NEEMUCH,Whole Year ,orange
+146,Madhya Pradesh,RAISEN,Whole Year ,orange
+147,Madhya Pradesh,RAJGARH,Whole Year ,orange
+148,Madhya Pradesh,RATLAM,Whole Year ,orange
+149,Madhya Pradesh,SATNA,Whole Year ,orange
+150,Madhya Pradesh,SEHORE,Whole Year ,orange
+151,Madhya Pradesh,SEONI,Whole Year ,orange
+152,Madhya Pradesh,SHAHDOL,Whole Year ,orange
+153,Madhya Pradesh,SHAJAPUR,Whole Year ,orange
+154,Madhya Pradesh,UJJAIN,Whole Year ,orange
+155,Manipur,BISHNUPUR,Whole Year ,orange
+156,Manipur,CHANDEL,Whole Year ,orange
+157,Manipur,CHURACHANDPUR,Whole Year ,orange
+158,Manipur,IMPHAL EAST,Whole Year ,orange
+159,Manipur,SENAPATI,Whole Year ,orange
+160,Manipur,TAMENGLONG,Whole Year ,orange
+161,Manipur,UKHRUL,Whole Year ,orange
+162,Rajasthan,JALORE,Whole Year ,orange
+163,Rajasthan,JHALAWAR,Whole Year ,orange
+164,Rajasthan,SIKAR,Whole Year ,orange
+165,Rajasthan,TONK,Whole Year ,orange
+166,Tamil Nadu,COIMBATORE,Whole Year ,orange
+167,Tamil Nadu,DINDIGUL,Whole Year ,orange
+168,Tamil Nadu,ERODE,Whole Year ,orange
+169,Tamil Nadu,KANNIYAKUMARI,Whole Year ,orange
+170,Tamil Nadu,KARUR,Whole Year ,orange
+171,Tamil Nadu,KRISHNAGIRI,Whole Year ,orange
+172,Tamil Nadu,MADURAI,Whole Year ,orange
+173,Tamil Nadu,NAMAKKAL,Whole Year ,orange
+174,Tamil Nadu,PERAMBALUR,Whole Year ,orange
+175,Tamil Nadu,RAMANATHAPURAM,Whole Year ,orange
+176,Tamil Nadu,SALEM,Whole Year ,orange
+177,Tamil Nadu,SIVAGANGA,Whole Year ,orange
+178,Tamil Nadu,THE NILGIRIS,Whole Year ,orange
+179,Tamil Nadu,THENI,Whole Year ,orange
+180,Tamil Nadu,TIRUCHIRAPPALLI,Whole Year ,orange
+181,Tamil Nadu,TIRUNELVELI,Whole Year ,orange
+182,Tamil Nadu,TUTICORIN,Whole Year ,orange
+183,Tamil Nadu,VELLORE,Whole Year ,orange
+184,Tamil Nadu,VIRUDHUNAGAR,Whole Year ,orange
+185,Telangana ,ADILABAD,Whole Year ,orange
+186,Telangana ,KARIMNAGAR,Whole Year ,orange
+187,Telangana ,KHAMMAM,Whole Year ,orange
+188,Telangana ,MAHBUBNAGAR,Whole Year ,orange
+189,Telangana ,MEDAK,Whole Year ,orange
+190,Telangana ,NALGONDA,Whole Year ,orange
+191,Telangana ,NIZAMABAD,Whole Year ,orange
+192,Telangana ,RANGAREDDI,Whole Year ,orange
+193,Telangana ,WARANGAL,Whole Year ,orange
+194,Andhra Pradesh,ANANTAPUR,Kharif     ,grapes
+195,Andhra Pradesh,CHITTOOR,Kharif     ,grapes
+196,Andhra Pradesh,KADAPA,Kharif     ,grapes
+197,Andhra Pradesh,KURNOOL,Kharif     ,grapes
+198,Nagaland,DIMAPUR,Rabi       ,lentil
+199,Nagaland,KOHIMA,Rabi       ,lentil
+200,Nagaland,MOKOKCHUNG,Rabi       ,lentil
+201,Nagaland,MON,Rabi       ,lentil
+202,Nagaland,PEREN,Rabi       ,lentil
+203,Nagaland,PHEK,Rabi       ,lentil
+204,Nagaland,TUENSANG,Rabi       ,lentil
+205,Nagaland,WOKHA,Rabi       ,lentil
+206,Nagaland,ZUNHEBOTO,Rabi       ,lentil
+207,Uttarakhand,ALMORA,Rabi       ,lentil
+208,Uttarakhand,BAGESHWAR,Rabi       ,lentil
+209,Uttarakhand,CHAMOLI,Rabi       ,lentil
+210,Uttarakhand,CHAMPAWAT,Rabi       ,lentil
+211,Uttarakhand,DEHRADUN,Rabi       ,lentil
+212,Uttarakhand,HARIDWAR,Rabi       ,lentil
+213,Uttarakhand,NAINITAL,Rabi       ,lentil
+214,Uttarakhand,PAURI GARHWAL,Rabi       ,lentil
+215,Uttarakhand,PITHORAGARH,Rabi       ,lentil
+216,Uttarakhand,RUDRA PRAYAG,Rabi       ,lentil
+217,Uttarakhand,TEHRI GARHWAL,Rabi       ,lentil
+218,Uttarakhand,UDAM SINGH NAGAR,Rabi       ,lentil
+219,Uttarakhand,UTTAR KASHI,Rabi       ,lentil
+220,Andhra Pradesh,ANANTAPUR,Kharif     ,pigeonpeas
+221,Andhra Pradesh,CHITTOOR,Kharif     ,pigeonpeas
+222,Andhra Pradesh,EAST GODAVARI,Kharif     ,pigeonpeas
+223,Andhra Pradesh,EAST GODAVARI,Rabi       ,pigeonpeas
+224,Andhra Pradesh,GUNTUR,Kharif     ,pigeonpeas
+225,Andhra Pradesh,GUNTUR,Rabi       ,pigeonpeas
+226,Andhra Pradesh,KADAPA,Kharif     ,pigeonpeas
+227,Andhra Pradesh,KADAPA,Rabi       ,pigeonpeas
+228,Andhra Pradesh,KRISHNA,Kharif     ,pigeonpeas
+229,Andhra Pradesh,KURNOOL,Kharif     ,pigeonpeas
+230,Andhra Pradesh,KURNOOL,Rabi       ,pigeonpeas
+231,Andhra Pradesh,PRAKASAM,Kharif     ,pigeonpeas
+232,Andhra Pradesh,PRAKASAM,Rabi       ,pigeonpeas
+233,Andhra Pradesh,SPSR NELLORE,Kharif     ,pigeonpeas
+234,Andhra Pradesh,SPSR NELLORE,Rabi       ,pigeonpeas
+235,Andhra Pradesh,SRIKAKULAM,Kharif     ,pigeonpeas
+236,Andhra Pradesh,SRIKAKULAM,Rabi       ,pigeonpeas
+237,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,pigeonpeas
+238,Andhra Pradesh,VISAKHAPATANAM,Rabi       ,pigeonpeas
+239,Andhra Pradesh,VIZIANAGARAM,Kharif     ,pigeonpeas
+240,Andhra Pradesh,VIZIANAGARAM,Rabi       ,pigeonpeas
+241,Andhra Pradesh,WEST GODAVARI,Kharif     ,pigeonpeas
+242,Andhra Pradesh,WEST GODAVARI,Rabi       ,pigeonpeas
+243,Assam,BAKSA,Kharif     ,pigeonpeas
+244,Assam,BARPETA,Kharif     ,pigeonpeas
+245,Assam,BONGAIGAON,Kharif     ,pigeonpeas
+246,Assam,CACHAR,Kharif     ,pigeonpeas
+247,Assam,CHIRANG,Kharif     ,pigeonpeas
+248,Assam,DARRANG,Kharif     ,pigeonpeas
+249,Assam,DHEMAJI,Kharif     ,pigeonpeas
+250,Assam,DHUBRI,Kharif     ,pigeonpeas
+251,Assam,DIBRUGARH,Kharif     ,pigeonpeas
+252,Assam,DIMA HASAO,Kharif     ,pigeonpeas
+253,Assam,GOALPARA,Kharif     ,pigeonpeas
+254,Assam,GOLAGHAT,Kharif     ,pigeonpeas
+255,Assam,HAILAKANDI,Kharif     ,pigeonpeas
+256,Assam,JORHAT,Kharif     ,pigeonpeas
+257,Assam,KAMRUP,Kharif     ,pigeonpeas
+258,Assam,KAMRUP METRO,Kharif     ,pigeonpeas
+259,Assam,KARBI ANGLONG,Kharif     ,pigeonpeas
+260,Assam,KARIMGANJ,Kharif     ,pigeonpeas
+261,Assam,KOKRAJHAR,Kharif     ,pigeonpeas
+262,Assam,LAKHIMPUR,Kharif     ,pigeonpeas
+263,Assam,MARIGAON,Kharif     ,pigeonpeas
+264,Assam,NAGAON,Kharif     ,pigeonpeas
+265,Assam,NALBARI,Kharif     ,pigeonpeas
+266,Assam,SIVASAGAR,Kharif     ,pigeonpeas
+267,Assam,SONITPUR,Kharif     ,pigeonpeas
+268,Assam,TINSUKIA,Kharif     ,pigeonpeas
+269,Assam,UDALGURI,Kharif     ,pigeonpeas
+270,Bihar,ARARIA,Kharif     ,pigeonpeas
+271,Bihar,ARWAL,Kharif     ,pigeonpeas
+272,Bihar,AURANGABAD,Kharif     ,pigeonpeas
+273,Bihar,BANKA,Kharif     ,pigeonpeas
+274,Bihar,BEGUSARAI,Kharif     ,pigeonpeas
+275,Bihar,BHAGALPUR,Kharif     ,pigeonpeas
+276,Bihar,BHOJPUR,Kharif     ,pigeonpeas
+277,Bihar,BUXAR,Kharif     ,pigeonpeas
+278,Bihar,DARBHANGA,Kharif     ,pigeonpeas
+279,Bihar,GAYA,Kharif     ,pigeonpeas
+280,Bihar,GOPALGANJ,Kharif     ,pigeonpeas
+281,Bihar,JAMUI,Kharif     ,pigeonpeas
+282,Bihar,JEHANABAD,Kharif     ,pigeonpeas
+283,Bihar,KAIMUR (BHABUA),Kharif     ,pigeonpeas
+284,Bihar,KATIHAR,Kharif     ,pigeonpeas
+285,Bihar,KHAGARIA,Kharif     ,pigeonpeas
+286,Bihar,KISHANGANJ,Kharif     ,pigeonpeas
+287,Bihar,LAKHISARAI,Kharif     ,pigeonpeas
+288,Bihar,MADHEPURA,Kharif     ,pigeonpeas
+289,Bihar,MADHUBANI,Kharif     ,pigeonpeas
+290,Bihar,MUNGER,Kharif     ,pigeonpeas
+291,Bihar,MUZAFFARPUR,Kharif     ,pigeonpeas
+292,Bihar,NALANDA,Kharif     ,pigeonpeas
+293,Bihar,NAWADA,Kharif     ,pigeonpeas
+294,Bihar,PASHCHIM CHAMPARAN,Kharif     ,pigeonpeas
+295,Bihar,PATNA,Kharif     ,pigeonpeas
+296,Bihar,PURBI CHAMPARAN,Kharif     ,pigeonpeas
+297,Bihar,PURNIA,Kharif     ,pigeonpeas
+298,Bihar,ROHTAS,Kharif     ,pigeonpeas
+299,Bihar,SAMASTIPUR,Kharif     ,pigeonpeas
+300,Bihar,SARAN,Kharif     ,pigeonpeas
+301,Bihar,SHEIKHPURA,Kharif     ,pigeonpeas
+302,Bihar,SHEOHAR,Kharif     ,pigeonpeas
+303,Bihar,SITAMARHI,Kharif     ,pigeonpeas
+304,Bihar,SIWAN,Kharif     ,pigeonpeas
+305,Bihar,SUPAUL,Kharif     ,pigeonpeas
+306,Bihar,VAISHALI,Kharif     ,pigeonpeas
+307,Chhattisgarh,BALOD,Kharif     ,pigeonpeas
+308,Chhattisgarh,BALODA BAZAR,Kharif     ,pigeonpeas
+309,Chhattisgarh,BALRAMPUR,Kharif     ,pigeonpeas
+310,Chhattisgarh,BASTAR,Kharif     ,pigeonpeas
+311,Chhattisgarh,BEMETARA,Kharif     ,pigeonpeas
+312,Chhattisgarh,BIJAPUR,Kharif     ,pigeonpeas
+313,Chhattisgarh,BILASPUR,Kharif     ,pigeonpeas
+314,Chhattisgarh,DANTEWADA,Kharif     ,pigeonpeas
+315,Chhattisgarh,DHAMTARI,Kharif     ,pigeonpeas
+316,Chhattisgarh,DURG,Kharif     ,pigeonpeas
+317,Chhattisgarh,GARIYABAND,Kharif     ,pigeonpeas
+318,Chhattisgarh,JANJGIR-CHAMPA,Kharif     ,pigeonpeas
+319,Chhattisgarh,JASHPUR,Kharif     ,pigeonpeas
+320,Chhattisgarh,KABIRDHAM,Kharif     ,pigeonpeas
+321,Chhattisgarh,KANKER,Kharif     ,pigeonpeas
+322,Chhattisgarh,KONDAGAON,Kharif     ,pigeonpeas
+323,Chhattisgarh,KORBA,Kharif     ,pigeonpeas
+324,Chhattisgarh,KOREA,Kharif     ,pigeonpeas
+325,Chhattisgarh,MAHASAMUND,Kharif     ,pigeonpeas
+326,Chhattisgarh,MUNGELI,Kharif     ,pigeonpeas
+327,Chhattisgarh,NARAYANPUR,Kharif     ,pigeonpeas
+328,Chhattisgarh,RAIGARH,Kharif     ,pigeonpeas
+329,Chhattisgarh,RAIPUR,Kharif     ,pigeonpeas
+330,Chhattisgarh,RAJNANDGAON,Kharif     ,pigeonpeas
+331,Chhattisgarh,SUKMA,Kharif     ,pigeonpeas
+332,Chhattisgarh,SURAJPUR,Kharif     ,pigeonpeas
+333,Chhattisgarh,SURGUJA,Kharif     ,pigeonpeas
+334,Karnataka,BAGALKOT,Kharif     ,pigeonpeas
+335,Karnataka,BANGALORE RURAL,Kharif     ,pigeonpeas
+336,Karnataka,BELGAUM,Kharif     ,pigeonpeas
+337,Karnataka,BELLARY,Kharif     ,pigeonpeas
+338,Karnataka,BENGALURU URBAN,Kharif     ,pigeonpeas
+339,Karnataka,BIDAR,Kharif     ,pigeonpeas
+340,Karnataka,BIJAPUR,Kharif     ,pigeonpeas
+341,Karnataka,CHAMARAJANAGAR,Kharif     ,pigeonpeas
+342,Karnataka,CHIKBALLAPUR,Kharif     ,pigeonpeas
+343,Karnataka,CHIKMAGALUR,Kharif     ,pigeonpeas
+344,Karnataka,CHITRADURGA,Kharif     ,pigeonpeas
+345,Karnataka,DAVANGERE,Kharif     ,pigeonpeas
+346,Karnataka,DHARWAD,Kharif     ,pigeonpeas
+347,Karnataka,GADAG,Kharif     ,pigeonpeas
+348,Karnataka,GULBARGA,Kharif     ,pigeonpeas
+349,Karnataka,HASSAN,Kharif     ,pigeonpeas
+350,Karnataka,HAVERI,Kharif     ,pigeonpeas
+351,Karnataka,KOLAR,Kharif     ,pigeonpeas
+352,Karnataka,KOPPAL,Kharif     ,pigeonpeas
+353,Karnataka,MANDYA,Kharif     ,pigeonpeas
+354,Karnataka,MYSORE,Kharif     ,pigeonpeas
+355,Karnataka,RAICHUR,Kharif     ,pigeonpeas
+356,Karnataka,RAMANAGARA,Kharif     ,pigeonpeas
+357,Karnataka,SHIMOGA,Kharif     ,pigeonpeas
+358,Karnataka,TUMKUR,Kharif     ,pigeonpeas
+359,Karnataka,UTTAR KANNAD,Kharif     ,pigeonpeas
+360,Karnataka,YADGIR,Kharif     ,pigeonpeas
+361,Kerala,PALAKKAD,Whole Year ,pigeonpeas
+362,Kerala,THRISSUR,Whole Year ,pigeonpeas
+363,Kerala,WAYANAD,Whole Year ,pigeonpeas
+364,Maharashtra,AHMEDNAGAR,Kharif     ,pigeonpeas
+365,Maharashtra,AKOLA,Kharif     ,pigeonpeas
+366,Maharashtra,AMRAVATI,Kharif     ,pigeonpeas
+367,Maharashtra,AURANGABAD,Kharif     ,pigeonpeas
+368,Maharashtra,BEED,Kharif     ,pigeonpeas
+369,Maharashtra,BHANDARA,Kharif     ,pigeonpeas
+370,Maharashtra,BULDHANA,Kharif     ,pigeonpeas
+371,Maharashtra,CHANDRAPUR,Kharif     ,pigeonpeas
+372,Maharashtra,DHULE,Kharif     ,pigeonpeas
+373,Maharashtra,GADCHIROLI,Kharif     ,pigeonpeas
+374,Maharashtra,GONDIA,Kharif     ,pigeonpeas
+375,Maharashtra,HINGOLI,Kharif     ,pigeonpeas
+376,Maharashtra,JALGAON,Kharif     ,pigeonpeas
+377,Maharashtra,JALNA,Kharif     ,pigeonpeas
+378,Maharashtra,KOLHAPUR,Kharif     ,pigeonpeas
+379,Maharashtra,LATUR,Kharif     ,pigeonpeas
+380,Maharashtra,NAGPUR,Kharif     ,pigeonpeas
+381,Maharashtra,NANDED,Kharif     ,pigeonpeas
+382,Maharashtra,NANDURBAR,Kharif     ,pigeonpeas
+383,Maharashtra,NASHIK,Kharif     ,pigeonpeas
+384,Maharashtra,OSMANABAD,Kharif     ,pigeonpeas
+385,Maharashtra,PALGHAR,Kharif     ,pigeonpeas
+386,Maharashtra,PARBHANI,Kharif     ,pigeonpeas
+387,Maharashtra,PUNE,Kharif     ,pigeonpeas
+388,Maharashtra,RAIGAD,Kharif     ,pigeonpeas
+389,Maharashtra,RATNAGIRI,Kharif     ,pigeonpeas
+390,Maharashtra,SANGLI,Kharif     ,pigeonpeas
+391,Maharashtra,SATARA,Kharif     ,pigeonpeas
+392,Maharashtra,SINDHUDURG,Kharif     ,pigeonpeas
+393,Maharashtra,SOLAPUR,Kharif     ,pigeonpeas
+394,Maharashtra,THANE,Kharif     ,pigeonpeas
+395,Maharashtra,WARDHA,Kharif     ,pigeonpeas
+396,Maharashtra,WASHIM,Kharif     ,pigeonpeas
+397,Maharashtra,YAVATMAL,Kharif     ,pigeonpeas
+398,Meghalaya,EAST GARO HILLS,Kharif     ,pigeonpeas
+399,Meghalaya,NORTH GARO HILLS,Kharif     ,pigeonpeas
+400,Meghalaya,SOUTH GARO HILLS,Kharif     ,pigeonpeas
+401,Meghalaya,SOUTH WEST GARO HILLS,Kharif     ,pigeonpeas
+402,Meghalaya,WEST GARO HILLS,Kharif     ,pigeonpeas
+403,Nagaland,DIMAPUR,Kharif     ,pigeonpeas
+404,Nagaland,KIPHIRE,Kharif     ,pigeonpeas
+405,Nagaland,KOHIMA,Kharif     ,pigeonpeas
+406,Nagaland,LONGLENG,Kharif     ,pigeonpeas
+407,Nagaland,MOKOKCHUNG,Kharif     ,pigeonpeas
+408,Nagaland,MON,Kharif     ,pigeonpeas
+409,Nagaland,PEREN,Kharif     ,pigeonpeas
+410,Nagaland,PHEK,Kharif     ,pigeonpeas
+411,Nagaland,TUENSANG,Kharif     ,pigeonpeas
+412,Nagaland,WOKHA,Kharif     ,pigeonpeas
+413,Nagaland,ZUNHEBOTO,Kharif     ,pigeonpeas
+414,Punjab,AMRITSAR,Kharif     ,pigeonpeas
+415,Punjab,BARNALA,Kharif     ,pigeonpeas
+416,Punjab,JALANDHAR,Kharif     ,pigeonpeas
+417,Punjab,LUDHIANA,Kharif     ,pigeonpeas
+418,Punjab,MOGA,Kharif     ,pigeonpeas
+419,Punjab,RUPNAGAR,Kharif     ,pigeonpeas
+420,Punjab,S.A.S NAGAR,Kharif     ,pigeonpeas
+421,Punjab,SANGRUR,Kharif     ,pigeonpeas
+422,Punjab,TARN TARAN,Kharif     ,pigeonpeas
+423,Telangana ,ADILABAD,Kharif     ,pigeonpeas
+424,Telangana ,KARIMNAGAR,Kharif     ,pigeonpeas
+425,Telangana ,KHAMMAM,Kharif     ,pigeonpeas
+426,Telangana ,MAHBUBNAGAR,Kharif     ,pigeonpeas
+427,Telangana ,MEDAK,Kharif     ,pigeonpeas
+428,Telangana ,NALGONDA,Kharif     ,pigeonpeas
+429,Telangana ,NIZAMABAD,Kharif     ,pigeonpeas
+430,Telangana ,RANGAREDDI,Kharif     ,pigeonpeas
+431,Telangana ,WARANGAL,Kharif     ,pigeonpeas
+432,Tripura,DHALAI,Kharif     ,pigeonpeas
+433,Tripura,GOMATI,Kharif     ,pigeonpeas
+434,Tripura,KHOWAI,Kharif     ,pigeonpeas
+435,Tripura,NORTH TRIPURA,Kharif     ,pigeonpeas
+436,Tripura,SEPAHIJALA,Kharif     ,pigeonpeas
+437,Tripura,SOUTH TRIPURA,Kharif     ,pigeonpeas
+438,Tripura,UNAKOTI,Kharif     ,pigeonpeas
+439,Tripura,WEST TRIPURA,Kharif     ,pigeonpeas
+440,Uttar Pradesh,AGRA,Kharif     ,pigeonpeas
+441,Uttar Pradesh,ALIGARH,Kharif     ,pigeonpeas
+442,Uttar Pradesh,ALLAHABAD,Kharif     ,pigeonpeas
+443,Uttar Pradesh,AMBEDKAR NAGAR,Kharif     ,pigeonpeas
+444,Uttar Pradesh,AMETHI,Kharif     ,pigeonpeas
+445,Uttar Pradesh,AMROHA,Kharif     ,pigeonpeas
+446,Uttar Pradesh,AURAIYA,Kharif     ,pigeonpeas
+447,Uttar Pradesh,AZAMGARH,Kharif     ,pigeonpeas
+448,Uttar Pradesh,BAGHPAT,Kharif     ,pigeonpeas
+449,Uttar Pradesh,BAHRAICH,Kharif     ,pigeonpeas
+450,Uttar Pradesh,BALLIA,Kharif     ,pigeonpeas
+451,Uttar Pradesh,BALRAMPUR,Kharif     ,pigeonpeas
+452,Uttar Pradesh,BANDA,Kharif     ,pigeonpeas
+453,Uttar Pradesh,BARABANKI,Kharif     ,pigeonpeas
+454,Uttar Pradesh,BAREILLY,Kharif     ,pigeonpeas
+455,Uttar Pradesh,BASTI,Kharif     ,pigeonpeas
+456,Uttar Pradesh,BIJNOR,Kharif     ,pigeonpeas
+457,Uttar Pradesh,BUDAUN,Kharif     ,pigeonpeas
+458,Uttar Pradesh,BULANDSHAHR,Kharif     ,pigeonpeas
+459,Uttar Pradesh,CHANDAULI,Kharif     ,pigeonpeas
+460,Uttar Pradesh,CHITRAKOOT,Kharif     ,pigeonpeas
+461,Uttar Pradesh,DEORIA,Kharif     ,pigeonpeas
+462,Uttar Pradesh,ETAH,Kharif     ,pigeonpeas
+463,Uttar Pradesh,ETAWAH,Kharif     ,pigeonpeas
+464,Uttar Pradesh,FAIZABAD,Kharif     ,pigeonpeas
+465,Uttar Pradesh,FARRUKHABAD,Kharif     ,pigeonpeas
+466,Uttar Pradesh,FATEHPUR,Kharif     ,pigeonpeas
+467,Uttar Pradesh,FIROZABAD,Kharif     ,pigeonpeas
+468,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,pigeonpeas
+469,Uttar Pradesh,GHAZIABAD,Kharif     ,pigeonpeas
+470,Uttar Pradesh,GHAZIPUR,Kharif     ,pigeonpeas
+471,Uttar Pradesh,GONDA,Kharif     ,pigeonpeas
+472,Uttar Pradesh,GORAKHPUR,Kharif     ,pigeonpeas
+473,Uttar Pradesh,HAMIRPUR,Kharif     ,pigeonpeas
+474,Uttar Pradesh,HAPUR,Kharif     ,pigeonpeas
+475,Uttar Pradesh,HARDOI,Kharif     ,pigeonpeas
+476,Uttar Pradesh,HATHRAS,Kharif     ,pigeonpeas
+477,Uttar Pradesh,JALAUN,Kharif     ,pigeonpeas
+478,Uttar Pradesh,JAUNPUR,Kharif     ,pigeonpeas
+479,Uttar Pradesh,JHANSI,Kharif     ,pigeonpeas
+480,Uttar Pradesh,KANNAUJ,Kharif     ,pigeonpeas
+481,Uttar Pradesh,KANPUR DEHAT,Kharif     ,pigeonpeas
+482,Uttar Pradesh,KANPUR NAGAR,Kharif     ,pigeonpeas
+483,Uttar Pradesh,KASGANJ,Kharif     ,pigeonpeas
+484,Uttar Pradesh,KAUSHAMBI,Kharif     ,pigeonpeas
+485,Uttar Pradesh,KHERI,Kharif     ,pigeonpeas
+486,Uttar Pradesh,KUSHI NAGAR,Kharif     ,pigeonpeas
+487,Uttar Pradesh,LALITPUR,Kharif     ,pigeonpeas
+488,Uttar Pradesh,LUCKNOW,Kharif     ,pigeonpeas
+489,Uttar Pradesh,MAHARAJGANJ,Kharif     ,pigeonpeas
+490,Uttar Pradesh,MAHOBA,Kharif     ,pigeonpeas
+491,Uttar Pradesh,MAINPURI,Kharif     ,pigeonpeas
+492,Uttar Pradesh,MATHURA,Kharif     ,pigeonpeas
+493,Uttar Pradesh,MAU,Kharif     ,pigeonpeas
+494,Uttar Pradesh,MEERUT,Kharif     ,pigeonpeas
+495,Uttar Pradesh,MIRZAPUR,Kharif     ,pigeonpeas
+496,Uttar Pradesh,MORADABAD,Kharif     ,pigeonpeas
+497,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,pigeonpeas
+498,Uttar Pradesh,PRATAPGARH,Kharif     ,pigeonpeas
+499,Uttar Pradesh,RAE BARELI,Kharif     ,pigeonpeas
+500,Uttar Pradesh,RAMPUR,Kharif     ,pigeonpeas
+501,Uttar Pradesh,SAMBHAL,Kharif     ,pigeonpeas
+502,Uttar Pradesh,SANT KABEER NAGAR,Kharif     ,pigeonpeas
+503,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif     ,pigeonpeas
+504,Uttar Pradesh,SHAHJAHANPUR,Kharif     ,pigeonpeas
+505,Uttar Pradesh,SHRAVASTI,Kharif     ,pigeonpeas
+506,Uttar Pradesh,SIDDHARTH NAGAR,Kharif     ,pigeonpeas
+507,Uttar Pradesh,SITAPUR,Kharif     ,pigeonpeas
+508,Uttar Pradesh,SONBHADRA,Kharif     ,pigeonpeas
+509,Uttar Pradesh,SULTANPUR,Kharif     ,pigeonpeas
+510,Uttar Pradesh,UNNAO,Kharif     ,pigeonpeas
+511,Uttar Pradesh,VARANASI,Kharif     ,pigeonpeas
+512,Uttarakhand,ALMORA,Kharif     ,pigeonpeas
+513,Uttarakhand,CHAMOLI,Kharif     ,pigeonpeas
+514,Uttarakhand,CHAMPAWAT,Kharif     ,pigeonpeas
+515,Uttarakhand,DEHRADUN,Kharif     ,pigeonpeas
+516,Uttarakhand,HARIDWAR,Kharif     ,pigeonpeas
+517,Uttarakhand,NAINITAL,Kharif     ,pigeonpeas
+518,Uttarakhand,PAURI GARHWAL,Kharif     ,pigeonpeas
+519,Uttarakhand,PITHORAGARH,Kharif     ,pigeonpeas
+520,Uttarakhand,RUDRA PRAYAG,Kharif     ,pigeonpeas
+521,Uttarakhand,TEHRI GARHWAL,Kharif     ,pigeonpeas
+522,Uttarakhand,UDAM SINGH NAGAR,Kharif     ,pigeonpeas
+523,Uttarakhand,UTTAR KASHI,Kharif     ,pigeonpeas
+524,West Bengal,24 PARAGANAS SOUTH,Rabi       ,pigeonpeas
+525,West Bengal,BARDHAMAN,Rabi       ,pigeonpeas
+526,West Bengal,DARJEELING,Rabi       ,pigeonpeas
+527,West Bengal,DINAJPUR UTTAR,Rabi       ,pigeonpeas
+528,West Bengal,HOOGHLY,Rabi       ,pigeonpeas
+529,West Bengal,MALDAH,Rabi       ,pigeonpeas
+530,West Bengal,MEDINIPUR WEST,Rabi       ,pigeonpeas
+531,West Bengal,MURSHIDABAD,Rabi       ,pigeonpeas
+532,West Bengal,NADIA,Rabi       ,pigeonpeas
+533,West Bengal,PURULIA,Rabi       ,pigeonpeas
+534,Andhra Pradesh,ANANTAPUR,Kharif     ,blackgram
+535,Andhra Pradesh,ANANTAPUR,Rabi       ,blackgram
+536,Andhra Pradesh,CHITTOOR,Kharif     ,blackgram
+537,Andhra Pradesh,CHITTOOR,Rabi       ,blackgram
+538,Andhra Pradesh,EAST GODAVARI,Kharif     ,blackgram
+539,Andhra Pradesh,EAST GODAVARI,Rabi       ,blackgram
+540,Andhra Pradesh,GUNTUR,Kharif     ,blackgram
+541,Andhra Pradesh,GUNTUR,Rabi       ,blackgram
+542,Andhra Pradesh,KADAPA,Kharif     ,blackgram
+543,Andhra Pradesh,KADAPA,Rabi       ,blackgram
+544,Andhra Pradesh,KRISHNA,Kharif     ,blackgram
+545,Andhra Pradesh,KRISHNA,Rabi       ,blackgram
+546,Andhra Pradesh,KURNOOL,Kharif     ,blackgram
+547,Andhra Pradesh,KURNOOL,Rabi       ,blackgram
+548,Andhra Pradesh,PRAKASAM,Kharif     ,blackgram
+549,Andhra Pradesh,PRAKASAM,Rabi       ,blackgram
+550,Andhra Pradesh,SPSR NELLORE,Kharif     ,blackgram
+551,Andhra Pradesh,SPSR NELLORE,Rabi       ,blackgram
+552,Andhra Pradesh,SRIKAKULAM,Kharif     ,blackgram
+553,Andhra Pradesh,SRIKAKULAM,Rabi       ,blackgram
+554,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,blackgram
+555,Andhra Pradesh,VISAKHAPATANAM,Rabi       ,blackgram
+556,Andhra Pradesh,VIZIANAGARAM,Kharif     ,blackgram
+557,Andhra Pradesh,VIZIANAGARAM,Rabi       ,blackgram
+558,Andhra Pradesh,WEST GODAVARI,Kharif     ,blackgram
+559,Andhra Pradesh,WEST GODAVARI,Rabi       ,blackgram
+560,Assam,BAKSA,Rabi       ,blackgram
+561,Assam,BARPETA,Rabi       ,blackgram
+562,Assam,BONGAIGAON,Rabi       ,blackgram
+563,Assam,CACHAR,Rabi       ,blackgram
+564,Assam,CHIRANG,Rabi       ,blackgram
+565,Assam,DARRANG,Rabi       ,blackgram
+566,Assam,DHEMAJI,Rabi       ,blackgram
+567,Assam,DHUBRI,Rabi       ,blackgram
+568,Assam,DIBRUGARH,Rabi       ,blackgram
+569,Assam,DIMA HASAO,Rabi       ,blackgram
+570,Assam,GOALPARA,Rabi       ,blackgram
+571,Assam,GOLAGHAT,Rabi       ,blackgram
+572,Assam,HAILAKANDI,Rabi       ,blackgram
+573,Assam,JORHAT,Rabi       ,blackgram
+574,Assam,KAMRUP,Rabi       ,blackgram
+575,Assam,KAMRUP METRO,Rabi       ,blackgram
+576,Assam,KARBI ANGLONG,Rabi       ,blackgram
+577,Assam,KARIMGANJ,Rabi       ,blackgram
+578,Assam,KOKRAJHAR,Rabi       ,blackgram
+579,Assam,LAKHIMPUR,Rabi       ,blackgram
+580,Assam,MARIGAON,Rabi       ,blackgram
+581,Assam,NAGAON,Rabi       ,blackgram
+582,Assam,NALBARI,Rabi       ,blackgram
+583,Assam,SIVASAGAR,Rabi       ,blackgram
+584,Assam,SONITPUR,Rabi       ,blackgram
+585,Assam,TINSUKIA,Rabi       ,blackgram
+586,Assam,UDALGURI,Rabi       ,blackgram
+587,Bihar,ARARIA,Kharif     ,blackgram
+588,Bihar,ARWAL,Kharif     ,blackgram
+589,Bihar,BEGUSARAI,Kharif     ,blackgram
+590,Bihar,BHAGALPUR,Kharif     ,blackgram
+591,Bihar,BHOJPUR,Kharif     ,blackgram
+592,Bihar,DARBHANGA,Kharif     ,blackgram
+593,Bihar,GAYA,Kharif     ,blackgram
+594,Bihar,GOPALGANJ,Kharif     ,blackgram
+595,Bihar,JEHANABAD,Kharif     ,blackgram
+596,Bihar,KAIMUR (BHABUA),Kharif     ,blackgram
+597,Bihar,KATIHAR,Kharif     ,blackgram
+598,Bihar,KHAGARIA,Kharif     ,blackgram
+599,Bihar,KISHANGANJ,Kharif     ,blackgram
+600,Bihar,LAKHISARAI,Kharif     ,blackgram
+601,Bihar,MADHEPURA,Kharif     ,blackgram
+602,Bihar,MADHUBANI,Kharif     ,blackgram
+603,Bihar,MUZAFFARPUR,Kharif     ,blackgram
+604,Bihar,NALANDA,Kharif     ,blackgram
+605,Bihar,NAWADA,Kharif     ,blackgram
+606,Bihar,PASHCHIM CHAMPARAN,Kharif     ,blackgram
+607,Bihar,PURBI CHAMPARAN,Kharif     ,blackgram
+608,Bihar,PURNIA,Kharif     ,blackgram
+609,Bihar,SAMASTIPUR,Kharif     ,blackgram
+610,Bihar,SARAN,Kharif     ,blackgram
+611,Bihar,SIWAN,Kharif     ,blackgram
+612,Bihar,SUPAUL,Kharif     ,blackgram
+613,Bihar,VAISHALI,Kharif     ,blackgram
+614,Chhattisgarh,BALOD,Kharif     ,blackgram
+615,Chhattisgarh,BALOD,Rabi       ,blackgram
+616,Chhattisgarh,BALODA BAZAR,Kharif     ,blackgram
+617,Chhattisgarh,BALODA BAZAR,Rabi       ,blackgram
+618,Chhattisgarh,BALRAMPUR,Kharif     ,blackgram
+619,Chhattisgarh,BASTAR,Kharif     ,blackgram
+620,Chhattisgarh,BASTAR,Rabi       ,blackgram
+621,Chhattisgarh,BEMETARA,Kharif     ,blackgram
+622,Chhattisgarh,BEMETARA,Rabi       ,blackgram
+623,Chhattisgarh,BIJAPUR,Kharif     ,blackgram
+624,Chhattisgarh,BIJAPUR,Rabi       ,blackgram
+625,Chhattisgarh,BILASPUR,Kharif     ,blackgram
+626,Chhattisgarh,BILASPUR,Rabi       ,blackgram
+627,Chhattisgarh,DANTEWADA,Kharif     ,blackgram
+628,Chhattisgarh,DANTEWADA,Rabi       ,blackgram
+629,Chhattisgarh,DHAMTARI,Kharif     ,blackgram
+630,Chhattisgarh,DHAMTARI,Rabi       ,blackgram
+631,Chhattisgarh,DURG,Kharif     ,blackgram
+632,Chhattisgarh,DURG,Rabi       ,blackgram
+633,Chhattisgarh,GARIYABAND,Kharif     ,blackgram
+634,Chhattisgarh,GARIYABAND,Rabi       ,blackgram
+635,Chhattisgarh,JANJGIR-CHAMPA,Kharif     ,blackgram
+636,Chhattisgarh,JANJGIR-CHAMPA,Rabi       ,blackgram
+637,Chhattisgarh,JASHPUR,Kharif     ,blackgram
+638,Chhattisgarh,KABIRDHAM,Kharif     ,blackgram
+639,Chhattisgarh,KABIRDHAM,Rabi       ,blackgram
+640,Chhattisgarh,KANKER,Kharif     ,blackgram
+641,Chhattisgarh,KANKER,Rabi       ,blackgram
+642,Chhattisgarh,KONDAGAON,Kharif     ,blackgram
+643,Chhattisgarh,KORBA,Kharif     ,blackgram
+644,Chhattisgarh,KORBA,Rabi       ,blackgram
+645,Chhattisgarh,KOREA,Kharif     ,blackgram
+646,Chhattisgarh,MAHASAMUND,Kharif     ,blackgram
+647,Chhattisgarh,MAHASAMUND,Rabi       ,blackgram
+648,Chhattisgarh,MUNGELI,Kharif     ,blackgram
+649,Chhattisgarh,MUNGELI,Rabi       ,blackgram
+650,Chhattisgarh,NARAYANPUR,Kharif     ,blackgram
+651,Chhattisgarh,RAIGARH,Kharif     ,blackgram
+652,Chhattisgarh,RAIGARH,Rabi       ,blackgram
+653,Chhattisgarh,RAIPUR,Kharif     ,blackgram
+654,Chhattisgarh,RAIPUR,Rabi       ,blackgram
+655,Chhattisgarh,RAJNANDGAON,Kharif     ,blackgram
+656,Chhattisgarh,RAJNANDGAON,Rabi       ,blackgram
+657,Chhattisgarh,SUKMA,Kharif     ,blackgram
+658,Chhattisgarh,SUKMA,Rabi       ,blackgram
+659,Chhattisgarh,SURAJPUR,Kharif     ,blackgram
+660,Chhattisgarh,SURAJPUR,Rabi       ,blackgram
+661,Chhattisgarh,SURGUJA,Kharif     ,blackgram
+662,Jammu and Kashmir ,ANANTNAG,Kharif     ,blackgram
+663,Jammu and Kashmir ,DODA,Kharif     ,blackgram
+664,Jammu and Kashmir ,JAMMU,Kharif     ,blackgram
+665,Jammu and Kashmir ,KATHUA,Kharif     ,blackgram
+666,Jammu and Kashmir ,KISHTWAR,Kharif     ,blackgram
+667,Jammu and Kashmir ,KULGAM,Kharif     ,blackgram
+668,Jammu and Kashmir ,RAJAURI,Kharif     ,blackgram
+669,Jammu and Kashmir ,REASI,Kharif     ,blackgram
+670,Jammu and Kashmir ,SAMBA,Kharif     ,blackgram
+671,Jammu and Kashmir ,UDHAMPUR,Kharif     ,blackgram
+672,Karnataka,BAGALKOT,Kharif     ,blackgram
+673,Karnataka,BANGALORE RURAL,Kharif     ,blackgram
+674,Karnataka,BELGAUM,Kharif     ,blackgram
+675,Karnataka,BELGAUM,Rabi       ,blackgram
+676,Karnataka,BELLARY,Kharif     ,blackgram
+677,Karnataka,BENGALURU URBAN,Kharif     ,blackgram
+678,Karnataka,BIDAR,Kharif     ,blackgram
+679,Karnataka,BIJAPUR,Kharif     ,blackgram
+680,Karnataka,CHAMARAJANAGAR,Kharif     ,blackgram
+681,Karnataka,CHIKMAGALUR,Kharif     ,blackgram
+682,Karnataka,DAKSHIN KANNAD,Rabi       ,blackgram
+683,Karnataka,DAVANGERE,Kharif     ,blackgram
+684,Karnataka,DAVANGERE,Rabi       ,blackgram
+685,Karnataka,DHARWAD,Kharif     ,blackgram
+686,Karnataka,GADAG,Kharif     ,blackgram
+687,Karnataka,GULBARGA,Kharif     ,blackgram
+688,Karnataka,HASSAN,Kharif     ,blackgram
+689,Karnataka,HASSAN,Rabi       ,blackgram
+690,Karnataka,HAVERI,Kharif     ,blackgram
+691,Karnataka,HAVERI,Rabi       ,blackgram
+692,Karnataka,KOPPAL,Rabi       ,blackgram
+693,Karnataka,MANDYA,Kharif     ,blackgram
+694,Karnataka,MANDYA,Rabi       ,blackgram
+695,Karnataka,MYSORE,Kharif     ,blackgram
+696,Karnataka,MYSORE,Rabi       ,blackgram
+697,Karnataka,RAMANAGARA,Kharif     ,blackgram
+698,Karnataka,SHIMOGA,Kharif     ,blackgram
+699,Karnataka,SHIMOGA,Rabi       ,blackgram
+700,Karnataka,TUMKUR,Kharif     ,blackgram
+701,Karnataka,UDUPI,Rabi       ,blackgram
+702,Karnataka,UTTAR KANNAD,Rabi       ,blackgram
+703,Karnataka,YADGIR,Kharif     ,blackgram
+704,Odisha,ANUGUL,Autumn     ,blackgram
+705,Odisha,ANUGUL,Summer     ,blackgram
+706,Odisha,ANUGUL,Winter     ,blackgram
+707,Odisha,BALANGIR,Autumn     ,blackgram
+708,Odisha,BALANGIR,Summer     ,blackgram
+709,Odisha,BALANGIR,Winter     ,blackgram
+710,Odisha,BALESHWAR,Autumn     ,blackgram
+711,Odisha,BALESHWAR,Summer     ,blackgram
+712,Odisha,BALESHWAR,Winter     ,blackgram
+713,Odisha,BARGARH,Autumn     ,blackgram
+714,Odisha,BARGARH,Summer     ,blackgram
+715,Odisha,BARGARH,Winter     ,blackgram
+716,Odisha,BHADRAK,Summer     ,blackgram
+717,Odisha,BHADRAK,Winter     ,blackgram
+718,Odisha,BOUDH,Autumn     ,blackgram
+719,Odisha,BOUDH,Summer     ,blackgram
+720,Odisha,BOUDH,Winter     ,blackgram
+721,Odisha,CUTTACK,Summer     ,blackgram
+722,Odisha,CUTTACK,Winter     ,blackgram
+723,Odisha,DEOGARH,Autumn     ,blackgram
+724,Odisha,DEOGARH,Winter     ,blackgram
+725,Odisha,DHENKANAL,Autumn     ,blackgram
+726,Odisha,DHENKANAL,Winter     ,blackgram
+727,Odisha,GAJAPATI,Winter     ,blackgram
+728,Odisha,GANJAM,Autumn     ,blackgram
+729,Odisha,GANJAM,Winter     ,blackgram
+730,Odisha,JAGATSINGHAPUR,Summer     ,blackgram
+731,Odisha,JAGATSINGHAPUR,Winter     ,blackgram
+732,Odisha,JAJAPUR,Summer     ,blackgram
+733,Odisha,JAJAPUR,Winter     ,blackgram
+734,Odisha,JHARSUGUDA,Autumn     ,blackgram
+735,Odisha,KALAHANDI,Summer     ,blackgram
+736,Odisha,KALAHANDI,Winter     ,blackgram
+737,Odisha,KANDHAMAL,Autumn     ,blackgram
+738,Odisha,KANDHAMAL,Winter     ,blackgram
+739,Odisha,KENDRAPARA,Summer     ,blackgram
+740,Odisha,KENDRAPARA,Winter     ,blackgram
+741,Odisha,KENDUJHAR,Autumn     ,blackgram
+742,Odisha,KENDUJHAR,Winter     ,blackgram
+743,Odisha,KHORDHA,Summer     ,blackgram
+744,Odisha,KHORDHA,Winter     ,blackgram
+745,Odisha,KORAPUT,Summer     ,blackgram
+746,Odisha,KORAPUT,Winter     ,blackgram
+747,Odisha,MALKANGIRI,Winter     ,blackgram
+748,Odisha,MAYURBHANJ,Autumn     ,blackgram
+749,Odisha,MAYURBHANJ,Summer     ,blackgram
+750,Odisha,MAYURBHANJ,Winter     ,blackgram
+751,Odisha,NABARANGPUR,Summer     ,blackgram
+752,Odisha,NABARANGPUR,Winter     ,blackgram
+753,Odisha,NAYAGARH,Winter     ,blackgram
+754,Odisha,NUAPADA,Autumn     ,blackgram
+755,Odisha,NUAPADA,Winter     ,blackgram
+756,Odisha,PURI,Summer     ,blackgram
+757,Odisha,PURI,Winter     ,blackgram
+758,Odisha,RAYAGADA,Summer     ,blackgram
+759,Odisha,RAYAGADA,Winter     ,blackgram
+760,Odisha,SAMBALPUR,Autumn     ,blackgram
+761,Odisha,SAMBALPUR,Summer     ,blackgram
+762,Odisha,SAMBALPUR,Winter     ,blackgram
+763,Odisha,SONEPUR,Autumn     ,blackgram
+764,Odisha,SONEPUR,Winter     ,blackgram
+765,Odisha,SUNDARGARH,Autumn     ,blackgram
+766,Odisha,SUNDARGARH,Winter     ,blackgram
+767,Puducherry,KARAIKAL,Summer     ,blackgram
+768,Puducherry,PONDICHERRY,Kharif     ,blackgram
+769,Puducherry,PONDICHERRY,Rabi       ,blackgram
+770,Puducherry,PONDICHERRY,Summer     ,blackgram
+771,Puducherry,YANAM,Rabi       ,blackgram
+772,Punjab,AMRITSAR,Kharif     ,blackgram
+773,Punjab,GURDASPUR,Kharif     ,blackgram
+774,Punjab,HOSHIARPUR,Kharif     ,blackgram
+775,Punjab,JALANDHAR,Kharif     ,blackgram
+776,Punjab,PATHANKOT,Kharif     ,blackgram
+777,Punjab,S.A.S NAGAR,Kharif     ,blackgram
+778,Sikkim,EAST DISTRICT,Kharif     ,blackgram
+779,Sikkim,SOUTH DISTRICT,Kharif     ,blackgram
+780,Sikkim,WEST DISTRICT,Kharif     ,blackgram
+781,Telangana ,ADILABAD,Kharif     ,blackgram
+782,Telangana ,ADILABAD,Rabi       ,blackgram
+783,Telangana ,KARIMNAGAR,Kharif     ,blackgram
+784,Telangana ,KARIMNAGAR,Rabi       ,blackgram
+785,Telangana ,KHAMMAM,Kharif     ,blackgram
+786,Telangana ,KHAMMAM,Rabi       ,blackgram
+787,Telangana ,MAHBUBNAGAR,Kharif     ,blackgram
+788,Telangana ,MAHBUBNAGAR,Rabi       ,blackgram
+789,Telangana ,MEDAK,Kharif     ,blackgram
+790,Telangana ,MEDAK,Rabi       ,blackgram
+791,Telangana ,NALGONDA,Rabi       ,blackgram
+792,Telangana ,NIZAMABAD,Kharif     ,blackgram
+793,Telangana ,NIZAMABAD,Rabi       ,blackgram
+794,Telangana ,RANGAREDDI,Kharif     ,blackgram
+795,Telangana ,WARANGAL,Kharif     ,blackgram
+796,Telangana ,WARANGAL,Rabi       ,blackgram
+797,Tripura,DHALAI,Kharif     ,blackgram
+798,Tripura,DHALAI,Rabi       ,blackgram
+799,Tripura,GOMATI,Kharif     ,blackgram
+800,Tripura,GOMATI,Rabi       ,blackgram
+801,Tripura,KHOWAI,Kharif     ,blackgram
+802,Tripura,KHOWAI,Rabi       ,blackgram
+803,Tripura,NORTH TRIPURA,Kharif     ,blackgram
+804,Tripura,NORTH TRIPURA,Rabi       ,blackgram
+805,Tripura,SEPAHIJALA,Kharif     ,blackgram
+806,Tripura,SEPAHIJALA,Rabi       ,blackgram
+807,Tripura,SOUTH TRIPURA,Kharif     ,blackgram
+808,Tripura,SOUTH TRIPURA,Rabi       ,blackgram
+809,Tripura,UNAKOTI,Kharif     ,blackgram
+810,Tripura,UNAKOTI,Rabi       ,blackgram
+811,Tripura,WEST TRIPURA,Kharif     ,blackgram
+812,Tripura,WEST TRIPURA,Rabi       ,blackgram
+813,Uttar Pradesh,AGRA,Kharif     ,blackgram
+814,Uttar Pradesh,ALIGARH,Kharif     ,blackgram
+815,Uttar Pradesh,ALIGARH,Summer     ,blackgram
+816,Uttar Pradesh,ALLAHABAD,Kharif     ,blackgram
+817,Uttar Pradesh,ALLAHABAD,Summer     ,blackgram
+818,Uttar Pradesh,AMBEDKAR NAGAR,Kharif     ,blackgram
+819,Uttar Pradesh,AMBEDKAR NAGAR,Summer     ,blackgram
+820,Uttar Pradesh,AMETHI,Kharif     ,blackgram
+821,Uttar Pradesh,AMETHI,Summer     ,blackgram
+822,Uttar Pradesh,AMROHA,Kharif     ,blackgram
+823,Uttar Pradesh,AMROHA,Summer     ,blackgram
+824,Uttar Pradesh,AURAIYA,Kharif     ,blackgram
+825,Uttar Pradesh,AURAIYA,Summer     ,blackgram
+826,Uttar Pradesh,AZAMGARH,Kharif     ,blackgram
+827,Uttar Pradesh,AZAMGARH,Summer     ,blackgram
+828,Uttar Pradesh,BAGHPAT,Kharif     ,blackgram
+829,Uttar Pradesh,BAGHPAT,Summer     ,blackgram
+830,Uttar Pradesh,BAHRAICH,Kharif     ,blackgram
+831,Uttar Pradesh,BAHRAICH,Summer     ,blackgram
+832,Uttar Pradesh,BALLIA,Kharif     ,blackgram
+833,Uttar Pradesh,BALLIA,Summer     ,blackgram
+834,Uttar Pradesh,BALRAMPUR,Kharif     ,blackgram
+835,Uttar Pradesh,BALRAMPUR,Summer     ,blackgram
+836,Uttar Pradesh,BANDA,Kharif     ,blackgram
+837,Uttar Pradesh,BANDA,Summer     ,blackgram
+838,Uttar Pradesh,BARABANKI,Kharif     ,blackgram
+839,Uttar Pradesh,BARABANKI,Summer     ,blackgram
+840,Uttar Pradesh,BAREILLY,Kharif     ,blackgram
+841,Uttar Pradesh,BAREILLY,Summer     ,blackgram
+842,Uttar Pradesh,BASTI,Kharif     ,blackgram
+843,Uttar Pradesh,BASTI,Summer     ,blackgram
+844,Uttar Pradesh,BIJNOR,Kharif     ,blackgram
+845,Uttar Pradesh,BIJNOR,Summer     ,blackgram
+846,Uttar Pradesh,BUDAUN,Kharif     ,blackgram
+847,Uttar Pradesh,BUDAUN,Summer     ,blackgram
+848,Uttar Pradesh,BULANDSHAHR,Kharif     ,blackgram
+849,Uttar Pradesh,BULANDSHAHR,Summer     ,blackgram
+850,Uttar Pradesh,CHANDAULI,Kharif     ,blackgram
+851,Uttar Pradesh,CHANDAULI,Summer     ,blackgram
+852,Uttar Pradesh,CHITRAKOOT,Kharif     ,blackgram
+853,Uttar Pradesh,DEORIA,Kharif     ,blackgram
+854,Uttar Pradesh,DEORIA,Summer     ,blackgram
+855,Uttar Pradesh,ETAH,Kharif     ,blackgram
+856,Uttar Pradesh,ETAH,Summer     ,blackgram
+857,Uttar Pradesh,ETAWAH,Kharif     ,blackgram
+858,Uttar Pradesh,ETAWAH,Summer     ,blackgram
+859,Uttar Pradesh,FAIZABAD,Kharif     ,blackgram
+860,Uttar Pradesh,FAIZABAD,Summer     ,blackgram
+861,Uttar Pradesh,FARRUKHABAD,Kharif     ,blackgram
+862,Uttar Pradesh,FARRUKHABAD,Summer     ,blackgram
+863,Uttar Pradesh,FATEHPUR,Kharif     ,blackgram
+864,Uttar Pradesh,FATEHPUR,Summer     ,blackgram
+865,Uttar Pradesh,FIROZABAD,Kharif     ,blackgram
+866,Uttar Pradesh,FIROZABAD,Summer     ,blackgram
+867,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif     ,blackgram
+868,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Summer     ,blackgram
+869,Uttar Pradesh,GHAZIABAD,Kharif     ,blackgram
+870,Uttar Pradesh,GHAZIABAD,Summer     ,blackgram
+871,Uttar Pradesh,GHAZIPUR,Kharif     ,blackgram
+872,Uttar Pradesh,GHAZIPUR,Summer     ,blackgram
+873,Uttar Pradesh,GONDA,Kharif     ,blackgram
+874,Uttar Pradesh,GONDA,Summer     ,blackgram
+875,Uttar Pradesh,GORAKHPUR,Kharif     ,blackgram
+876,Uttar Pradesh,GORAKHPUR,Summer     ,blackgram
+877,Uttar Pradesh,HAMIRPUR,Kharif     ,blackgram
+878,Uttar Pradesh,HAPUR,Kharif     ,blackgram
+879,Uttar Pradesh,HAPUR,Summer     ,blackgram
+880,Uttar Pradesh,HARDOI,Kharif     ,blackgram
+881,Uttar Pradesh,HARDOI,Summer     ,blackgram
+882,Uttar Pradesh,HATHRAS,Kharif     ,blackgram
+883,Uttar Pradesh,HATHRAS,Summer     ,blackgram
+884,Uttar Pradesh,JALAUN,Kharif     ,blackgram
+885,Uttar Pradesh,JAUNPUR,Kharif     ,blackgram
+886,Uttar Pradesh,JAUNPUR,Summer     ,blackgram
+887,Uttar Pradesh,JHANSI,Kharif     ,blackgram
+888,Uttar Pradesh,JHANSI,Summer     ,blackgram
+889,Uttar Pradesh,KANNAUJ,Kharif     ,blackgram
+890,Uttar Pradesh,KANNAUJ,Summer     ,blackgram
+891,Uttar Pradesh,KANPUR DEHAT,Kharif     ,blackgram
+892,Uttar Pradesh,KANPUR DEHAT,Summer     ,blackgram
+893,Uttar Pradesh,KANPUR NAGAR,Kharif     ,blackgram
+894,Uttar Pradesh,KANPUR NAGAR,Summer     ,blackgram
+895,Uttar Pradesh,KASGANJ,Kharif     ,blackgram
+896,Uttar Pradesh,KASGANJ,Summer     ,blackgram
+897,Uttar Pradesh,KAUSHAMBI,Kharif     ,blackgram
+898,Uttar Pradesh,KAUSHAMBI,Summer     ,blackgram
+899,Uttar Pradesh,KHERI,Kharif     ,blackgram
+900,Uttar Pradesh,KHERI,Summer     ,blackgram
+901,Uttar Pradesh,KUSHI NAGAR,Kharif     ,blackgram
+902,Uttar Pradesh,KUSHI NAGAR,Summer     ,blackgram
+903,Uttar Pradesh,LALITPUR,Kharif     ,blackgram
+904,Uttar Pradesh,LALITPUR,Summer     ,blackgram
+905,Uttar Pradesh,LUCKNOW,Kharif     ,blackgram
+906,Uttar Pradesh,LUCKNOW,Summer     ,blackgram
+907,Uttar Pradesh,MAHARAJGANJ,Kharif     ,blackgram
+908,Uttar Pradesh,MAHARAJGANJ,Summer     ,blackgram
+909,Uttar Pradesh,MAHOBA,Kharif     ,blackgram
+910,Uttar Pradesh,MAINPURI,Kharif     ,blackgram
+911,Uttar Pradesh,MAINPURI,Summer     ,blackgram
+912,Uttar Pradesh,MATHURA,Kharif     ,blackgram
+913,Uttar Pradesh,MAU,Summer     ,blackgram
+914,Uttar Pradesh,MEERUT,Kharif     ,blackgram
+915,Uttar Pradesh,MEERUT,Summer     ,blackgram
+916,Uttar Pradesh,MIRZAPUR,Kharif     ,blackgram
+917,Uttar Pradesh,MIRZAPUR,Summer     ,blackgram
+918,Uttar Pradesh,MORADABAD,Kharif     ,blackgram
+919,Uttar Pradesh,MORADABAD,Summer     ,blackgram
+920,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,blackgram
+921,Uttar Pradesh,MUZAFFARNAGAR,Summer     ,blackgram
+922,Uttar Pradesh,PILIBHIT,Kharif     ,blackgram
+923,Uttar Pradesh,PILIBHIT,Summer     ,blackgram
+924,Uttar Pradesh,PRATAPGARH,Kharif     ,blackgram
+925,Uttar Pradesh,PRATAPGARH,Summer     ,blackgram
+926,Uttar Pradesh,RAE BARELI,Kharif     ,blackgram
+927,Uttar Pradesh,RAE BARELI,Summer     ,blackgram
+928,Uttar Pradesh,RAMPUR,Kharif     ,blackgram
+929,Uttar Pradesh,RAMPUR,Summer     ,blackgram
+930,Uttar Pradesh,SAHARANPUR,Kharif     ,blackgram
+931,Uttar Pradesh,SAHARANPUR,Summer     ,blackgram
+932,Uttar Pradesh,SAMBHAL,Kharif     ,blackgram
+933,Uttar Pradesh,SAMBHAL,Summer     ,blackgram
+934,Uttar Pradesh,SANT KABEER NAGAR,Kharif     ,blackgram
+935,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif     ,blackgram
+936,Uttar Pradesh,SANT RAVIDAS NAGAR,Summer     ,blackgram
+937,Uttar Pradesh,SHAHJAHANPUR,Kharif     ,blackgram
+938,Uttar Pradesh,SHAHJAHANPUR,Summer     ,blackgram
+939,Uttar Pradesh,SHAMLI,Kharif     ,blackgram
+940,Uttar Pradesh,SHAMLI,Summer     ,blackgram
+941,Uttar Pradesh,SHRAVASTI,Kharif     ,blackgram
+942,Uttar Pradesh,SHRAVASTI,Summer     ,blackgram
+943,Uttar Pradesh,SIDDHARTH NAGAR,Kharif     ,blackgram
+944,Uttar Pradesh,SITAPUR,Kharif     ,blackgram
+945,Uttar Pradesh,SITAPUR,Summer     ,blackgram
+946,Uttar Pradesh,SONBHADRA,Kharif     ,blackgram
+947,Uttar Pradesh,SULTANPUR,Kharif     ,blackgram
+948,Uttar Pradesh,SULTANPUR,Summer     ,blackgram
+949,Uttar Pradesh,UNNAO,Kharif     ,blackgram
+950,Uttar Pradesh,UNNAO,Summer     ,blackgram
+951,Uttar Pradesh,VARANASI,Kharif     ,blackgram
+952,Uttar Pradesh,VARANASI,Summer     ,blackgram
+953,Uttarakhand,ALMORA,Kharif     ,blackgram
+954,Uttarakhand,BAGESHWAR,Kharif     ,blackgram
+955,Uttarakhand,CHAMOLI,Kharif     ,blackgram
+956,Uttarakhand,CHAMPAWAT,Kharif     ,blackgram
+957,Uttarakhand,DEHRADUN,Kharif     ,blackgram
+958,Uttarakhand,HARIDWAR,Kharif     ,blackgram
+959,Uttarakhand,HARIDWAR,Summer     ,blackgram
+960,Uttarakhand,NAINITAL,Kharif     ,blackgram
+961,Uttarakhand,PAURI GARHWAL,Kharif     ,blackgram
+962,Uttarakhand,PITHORAGARH,Kharif     ,blackgram
+963,Uttarakhand,RUDRA PRAYAG,Kharif     ,blackgram
+964,Uttarakhand,TEHRI GARHWAL,Kharif     ,blackgram
+965,Uttarakhand,UDAM SINGH NAGAR,Kharif     ,blackgram
+966,Uttarakhand,UDAM SINGH NAGAR,Summer     ,blackgram
+967,Uttarakhand,UTTAR KASHI,Kharif     ,blackgram
+968,West Bengal,24 PARAGANAS NORTH,Kharif     ,blackgram
+969,West Bengal,24 PARAGANAS NORTH,Rabi       ,blackgram
+970,West Bengal,24 PARAGANAS SOUTH,Kharif     ,blackgram
+971,West Bengal,BANKURA,Kharif     ,blackgram
+972,West Bengal,BARDHAMAN,Kharif     ,blackgram
+973,West Bengal,BARDHAMAN,Rabi       ,blackgram
+974,West Bengal,BIRBHUM,Kharif     ,blackgram
+975,West Bengal,COOCHBEHAR,Kharif     ,blackgram
+976,West Bengal,COOCHBEHAR,Rabi       ,blackgram
+977,West Bengal,DARJEELING,Kharif     ,blackgram
+978,West Bengal,DARJEELING,Rabi       ,blackgram
+979,West Bengal,DINAJPUR DAKSHIN,Kharif     ,blackgram
+980,West Bengal,DINAJPUR UTTAR,Kharif     ,blackgram
+981,West Bengal,DINAJPUR UTTAR,Rabi       ,blackgram
+982,West Bengal,HOOGHLY,Rabi       ,blackgram
+983,West Bengal,JALPAIGURI,Kharif     ,blackgram
+984,West Bengal,JALPAIGURI,Rabi       ,blackgram
+985,West Bengal,MALDAH,Kharif     ,blackgram
+986,West Bengal,MEDINIPUR EAST,Kharif     ,blackgram
+987,West Bengal,MEDINIPUR WEST,Kharif     ,blackgram
+988,West Bengal,MEDINIPUR WEST,Rabi       ,blackgram
+989,West Bengal,MURSHIDABAD,Kharif     ,blackgram
+990,West Bengal,MURSHIDABAD,Rabi       ,blackgram
+991,West Bengal,NADIA,Kharif     ,blackgram
+992,West Bengal,NADIA,Rabi       ,blackgram
+993,West Bengal,PURULIA,Kharif     ,blackgram
+994,West Bengal,PURULIA,Rabi       ,blackgram
+995,Madhya Pradesh,BALAGHAT,Whole Year ,watermelon
+996,Madhya Pradesh,BARWANI,Whole Year ,watermelon
+997,Madhya Pradesh,BURHANPUR,Whole Year ,watermelon
+998,Madhya Pradesh,CHHINDWARA,Whole Year ,watermelon
+999,Madhya Pradesh,DAMOH,Whole Year ,watermelon
+1000,Madhya Pradesh,DEWAS,Whole Year ,watermelon
+1001,Madhya Pradesh,DHAR,Whole Year ,watermelon
+1002,Madhya Pradesh,GWALIOR,Whole Year ,watermelon
+1003,Madhya Pradesh,HARDA,Whole Year ,watermelon
+1004,Madhya Pradesh,HOSHANGABAD,Whole Year ,watermelon
+1005,Madhya Pradesh,INDORE,Whole Year ,watermelon
+1006,Madhya Pradesh,JABALPUR,Whole Year ,watermelon
+1007,Madhya Pradesh,KATNI,Whole Year ,watermelon
+1008,Madhya Pradesh,KHANDWA,Whole Year ,watermelon
+1009,Madhya Pradesh,KHARGONE,Whole Year ,watermelon
+1010,Madhya Pradesh,MANDLA,Whole Year ,watermelon
+1011,Madhya Pradesh,RAJGARH,Whole Year ,watermelon
+1012,Madhya Pradesh,RATLAM,Whole Year ,watermelon
+1013,Madhya Pradesh,SEONI,Whole Year ,watermelon
+1014,Madhya Pradesh,SHAHDOL,Whole Year ,watermelon
+1015,Madhya Pradesh,SHAJAPUR,Whole Year ,watermelon
+1016,Madhya Pradesh,TIKAMGARH,Whole Year ,watermelon
+1017,Madhya Pradesh,UJJAIN,Whole Year ,watermelon
+1018,Madhya Pradesh,VIDISHA,Whole Year ,watermelon
+1019,Rajasthan,ALWAR,Whole Year ,watermelon
+1020,Rajasthan,BARAN,Whole Year ,watermelon
+1021,Rajasthan,BHILWARA,Whole Year ,watermelon
+1022,Rajasthan,BUNDI,Whole Year ,watermelon
+1023,Rajasthan,CHITTORGARH,Whole Year ,watermelon
+1024,Rajasthan,CHURU,Whole Year ,watermelon
+1025,Rajasthan,DAUSA,Whole Year ,watermelon
+1026,Rajasthan,DHOLPUR,Whole Year ,watermelon
+1027,Rajasthan,JAIPUR,Whole Year ,watermelon
+1028,Rajasthan,JALORE,Whole Year ,watermelon
+1029,Rajasthan,JHUNJHUNU,Whole Year ,watermelon
+1030,Rajasthan,KARAULI,Whole Year ,watermelon
+1031,Rajasthan,NAGAUR,Whole Year ,watermelon
+1032,Rajasthan,SAWAI MADHOPUR,Whole Year ,watermelon
+1033,Rajasthan,SIKAR,Whole Year ,watermelon
+1034,Rajasthan,TONK,Whole Year ,watermelon
+1035,Tamil Nadu,COIMBATORE,Whole Year ,watermelon
+1036,Tamil Nadu,CUDDALORE,Whole Year ,watermelon
+1037,Tamil Nadu,DHARMAPURI,Whole Year ,watermelon
+1038,Tamil Nadu,DINDIGUL,Whole Year ,watermelon
+1039,Tamil Nadu,ERODE,Whole Year ,watermelon
+1040,Tamil Nadu,KANCHIPURAM,Whole Year ,watermelon
+1041,Tamil Nadu,KRISHNAGIRI,Whole Year ,watermelon
+1042,Tamil Nadu,PUDUKKOTTAI,Whole Year ,watermelon
+1043,Tamil Nadu,SALEM,Whole Year ,watermelon
+1044,Tamil Nadu,THENI,Whole Year ,watermelon
+1045,Tamil Nadu,THIRUVALLUR,Whole Year ,watermelon
+1046,Tamil Nadu,TIRUCHIRAPPALLI,Whole Year ,watermelon
+1047,Tamil Nadu,TIRUVANNAMALAI,Whole Year ,watermelon
+1048,Tamil Nadu,VELLORE,Whole Year ,watermelon
+1049,Tamil Nadu,VILLUPURAM,Whole Year ,watermelon
+1050,Tamil Nadu,VIRUDHUNAGAR,Whole Year ,watermelon
+1051,Nagaland,KIPHIRE,Kharif     ,kidneybeans
+1052,Nagaland,KIPHIRE,Rabi       ,kidneybeans
+1053,Nagaland,KOHIMA,Kharif     ,kidneybeans
+1054,Nagaland,KOHIMA,Rabi       ,kidneybeans
+1055,Nagaland,LONGLENG,Kharif     ,kidneybeans
+1056,Nagaland,LONGLENG,Rabi       ,kidneybeans
+1057,Nagaland,MOKOKCHUNG,Kharif     ,kidneybeans
+1058,Nagaland,MOKOKCHUNG,Rabi       ,kidneybeans
+1059,Nagaland,MON,Kharif     ,kidneybeans
+1060,Nagaland,MON,Rabi       ,kidneybeans
+1061,Nagaland,PHEK,Kharif     ,kidneybeans
+1062,Nagaland,PHEK,Rabi       ,kidneybeans
+1063,Nagaland,TUENSANG,Kharif     ,kidneybeans
+1064,Nagaland,TUENSANG,Rabi       ,kidneybeans
+1065,Nagaland,WOKHA,Kharif     ,kidneybeans
+1066,Nagaland,WOKHA,Rabi       ,kidneybeans
+1067,Nagaland,ZUNHEBOTO,Kharif     ,kidneybeans
+1068,Nagaland,ZUNHEBOTO,Rabi       ,kidneybeans
+1069,Uttarakhand,NAINITAL,Kharif     ,mothbeans
+1070,West Bengal,PURULIA,Kharif     ,mothbeans
+1071,Andhra Pradesh,ANANTAPUR,Whole Year ,coconut
+1072,Andhra Pradesh,CHITTOOR,Whole Year ,coconut
+1073,Andhra Pradesh,EAST GODAVARI,Whole Year ,coconut
+1074,Andhra Pradesh,GUNTUR,Whole Year ,coconut
+1075,Andhra Pradesh,KADAPA,Whole Year ,coconut
+1076,Andhra Pradesh,KRISHNA,Whole Year ,coconut
+1077,Andhra Pradesh,KURNOOL,Whole Year ,coconut
+1078,Andhra Pradesh,PRAKASAM,Whole Year ,coconut
+1079,Andhra Pradesh,SPSR NELLORE,Whole Year ,coconut
+1080,Andhra Pradesh,SRIKAKULAM,Whole Year ,coconut
+1081,Andhra Pradesh,VISAKHAPATANAM,Whole Year ,coconut
+1082,Andhra Pradesh,VIZIANAGARAM,Whole Year ,coconut
+1083,Andhra Pradesh,WEST GODAVARI,Whole Year ,coconut
+1084,Assam,BAKSA,Whole Year ,coconut
+1085,Assam,BARPETA,Whole Year ,coconut
+1086,Assam,BONGAIGAON,Whole Year ,coconut
+1087,Assam,CACHAR,Whole Year ,coconut
+1088,Assam,CHIRANG,Whole Year ,coconut
+1089,Assam,DARRANG,Whole Year ,coconut
+1090,Assam,DHEMAJI,Whole Year ,coconut
+1091,Assam,DHUBRI,Whole Year ,coconut
+1092,Assam,DIBRUGARH,Whole Year ,coconut
+1093,Assam,DIMA HASAO,Whole Year ,coconut
+1094,Assam,GOALPARA,Whole Year ,coconut
+1095,Assam,GOLAGHAT,Whole Year ,coconut
+1096,Assam,HAILAKANDI,Whole Year ,coconut
+1097,Assam,JORHAT,Whole Year ,coconut
+1098,Assam,KAMRUP,Whole Year ,coconut
+1099,Assam,KAMRUP METRO,Whole Year ,coconut
+1100,Assam,KARBI ANGLONG,Whole Year ,coconut
+1101,Assam,KARIMGANJ,Whole Year ,coconut
+1102,Assam,KOKRAJHAR,Whole Year ,coconut
+1103,Assam,LAKHIMPUR,Whole Year ,coconut
+1104,Assam,MARIGAON,Whole Year ,coconut
+1105,Assam,NAGAON,Whole Year ,coconut
+1106,Assam,NALBARI,Whole Year ,coconut
+1107,Assam,SIVASAGAR,Whole Year ,coconut
+1108,Assam,SONITPUR,Whole Year ,coconut
+1109,Assam,TINSUKIA,Whole Year ,coconut
+1110,Assam,UDALGURI,Whole Year ,coconut
+1111,Chhattisgarh,BASTAR,Kharif     ,coconut
+1112,Chhattisgarh,BIJAPUR,Kharif     ,coconut
+1113,Chhattisgarh,DANTEWADA,Kharif     ,coconut
+1114,Chhattisgarh,RAIPUR,Kharif     ,coconut
+1115,Karnataka,BAGALKOT,Whole Year ,coconut
+1116,Karnataka,BANGALORE RURAL,Whole Year ,coconut
+1117,Karnataka,BELGAUM,Whole Year ,coconut
+1118,Karnataka,BELLARY,Whole Year ,coconut
+1119,Karnataka,BENGALURU URBAN,Whole Year ,coconut
+1120,Karnataka,BIDAR,Whole Year ,coconut
+1121,Karnataka,BIJAPUR,Whole Year ,coconut
+1122,Karnataka,CHAMARAJANAGAR,Whole Year ,coconut
+1123,Karnataka,CHIKBALLAPUR,Whole Year ,coconut
+1124,Karnataka,CHIKMAGALUR,Whole Year ,coconut
+1125,Karnataka,CHITRADURGA,Whole Year ,coconut
+1126,Karnataka,DAKSHIN KANNAD,Whole Year ,coconut
+1127,Karnataka,DAVANGERE,Whole Year ,coconut
+1128,Karnataka,DHARWAD,Whole Year ,coconut
+1129,Karnataka,GADAG,Whole Year ,coconut
+1130,Karnataka,GULBARGA,Whole Year ,coconut
+1131,Karnataka,HASSAN,Whole Year ,coconut
+1132,Karnataka,HAVERI,Whole Year ,coconut
+1133,Karnataka,KODAGU,Whole Year ,coconut
+1134,Karnataka,KOLAR,Whole Year ,coconut
+1135,Karnataka,KOPPAL,Whole Year ,coconut
+1136,Karnataka,MANDYA,Whole Year ,coconut
+1137,Karnataka,MYSORE,Whole Year ,coconut
+1138,Karnataka,RAICHUR,Whole Year ,coconut
+1139,Karnataka,RAMANAGARA,Whole Year ,coconut
+1140,Karnataka,SHIMOGA,Whole Year ,coconut
+1141,Karnataka,TUMKUR,Whole Year ,coconut
+1142,Karnataka,UDUPI,Whole Year ,coconut
+1143,Karnataka,UTTAR KANNAD,Whole Year ,coconut
+1144,Kerala,ALAPPUZHA,Whole Year ,coconut
+1145,Kerala,ERNAKULAM,Whole Year ,coconut
+1146,Kerala,IDUKKI,Whole Year ,coconut
+1147,Kerala,KANNUR,Whole Year ,coconut
+1148,Kerala,KASARAGOD,Whole Year ,coconut
+1149,Kerala,KOLLAM,Whole Year ,coconut
+1150,Kerala,KOTTAYAM,Whole Year ,coconut
+1151,Kerala,KOZHIKODE,Whole Year ,coconut
+1152,Kerala,MALAPPURAM,Whole Year ,coconut
+1153,Kerala,PALAKKAD,Whole Year ,coconut
+1154,Kerala,PATHANAMTHITTA,Whole Year ,coconut
+1155,Kerala,THIRUVANANTHAPURAM,Whole Year ,coconut
+1156,Kerala,THRISSUR,Whole Year ,coconut
+1157,Kerala,WAYANAD,Whole Year ,coconut
+1158,Puducherry,KARAIKAL,Whole Year ,coconut
+1159,Puducherry,MAHE,Whole Year ,coconut
+1160,Puducherry,PONDICHERRY,Whole Year ,coconut
+1161,Puducherry,YANAM,Whole Year ,coconut
+1162,Tamil Nadu,ARIYALUR,Whole Year ,coconut
+1163,Tamil Nadu,COIMBATORE,Whole Year ,coconut
+1164,Tamil Nadu,CUDDALORE,Whole Year ,coconut
+1165,Tamil Nadu,DHARMAPURI,Whole Year ,coconut
+1166,Tamil Nadu,DINDIGUL,Whole Year ,coconut
+1167,Tamil Nadu,ERODE,Whole Year ,coconut
+1168,Tamil Nadu,KANCHIPURAM,Whole Year ,coconut
+1169,Tamil Nadu,KANNIYAKUMARI,Whole Year ,coconut
+1170,Tamil Nadu,KARUR,Whole Year ,coconut
+1171,Tamil Nadu,KRISHNAGIRI,Whole Year ,coconut
+1172,Tamil Nadu,MADURAI,Whole Year ,coconut
+1173,Tamil Nadu,NAGAPATTINAM,Whole Year ,coconut
+1174,Tamil Nadu,NAMAKKAL,Whole Year ,coconut
+1175,Tamil Nadu,PERAMBALUR,Whole Year ,coconut
+1176,Tamil Nadu,PUDUKKOTTAI,Whole Year ,coconut
+1177,Tamil Nadu,RAMANATHAPURAM,Whole Year ,coconut
+1178,Tamil Nadu,SALEM,Whole Year ,coconut
+1179,Tamil Nadu,SIVAGANGA,Whole Year ,coconut
+1180,Tamil Nadu,THANJAVUR,Whole Year ,coconut
+1181,Tamil Nadu,THE NILGIRIS,Whole Year ,coconut
+1182,Tamil Nadu,THENI,Whole Year ,coconut
+1183,Tamil Nadu,THIRUVALLUR,Whole Year ,coconut
+1184,Tamil Nadu,THIRUVARUR,Whole Year ,coconut
+1185,Tamil Nadu,TIRUCHIRAPPALLI,Whole Year ,coconut
+1186,Tamil Nadu,TIRUNELVELI,Whole Year ,coconut
+1187,Tamil Nadu,TIRUPPUR,Whole Year ,coconut
+1188,Tamil Nadu,TIRUVANNAMALAI,Whole Year ,coconut
+1189,Tamil Nadu,TUTICORIN,Whole Year ,coconut
+1190,Tamil Nadu,VELLORE,Whole Year ,coconut
+1191,Tamil Nadu,VILLUPURAM,Whole Year ,coconut
+1192,Tamil Nadu,VIRUDHUNAGAR,Whole Year ,coconut
+1193,Telangana ,KHAMMAM,Whole Year ,coconut
+1194,Telangana ,MAHBUBNAGAR,Whole Year ,coconut
+1195,Telangana ,NIZAMABAD,Whole Year ,coconut
+1196,Telangana ,RANGAREDDI,Whole Year ,coconut
+1197,West Bengal,24 PARAGANAS NORTH,Whole Year ,coconut
+1198,West Bengal,24 PARAGANAS SOUTH,Whole Year ,coconut
+1199,West Bengal,BANKURA,Whole Year ,coconut
+1200,West Bengal,BARDHAMAN,Whole Year ,coconut
+1201,West Bengal,BIRBHUM,Whole Year ,coconut
+1202,West Bengal,COOCHBEHAR,Whole Year ,coconut
+1203,West Bengal,DARJEELING,Whole Year ,coconut
+1204,West Bengal,DINAJPUR DAKSHIN,Whole Year ,coconut
+1205,West Bengal,DINAJPUR UTTAR,Whole Year ,coconut
+1206,West Bengal,HOOGHLY,Whole Year ,coconut
+1207,West Bengal,HOWRAH,Whole Year ,coconut
+1208,West Bengal,JALPAIGURI,Whole Year ,coconut
+1209,West Bengal,MALDAH,Whole Year ,coconut
+1210,West Bengal,MEDINIPUR EAST,Whole Year ,coconut
+1211,West Bengal,MEDINIPUR WEST,Whole Year ,coconut
+1212,West Bengal,MURSHIDABAD,Whole Year ,coconut
+1213,West Bengal,NADIA,Whole Year ,coconut
+1214,West Bengal,PURULIA,Whole Year ,coconut
+1215,Andhra Pradesh,ANANTAPUR,Kharif     ,cotton
+1216,Andhra Pradesh,CHITTOOR,Kharif     ,cotton
+1217,Andhra Pradesh,EAST GODAVARI,Kharif     ,cotton
+1218,Andhra Pradesh,GUNTUR,Kharif     ,cotton
+1219,Andhra Pradesh,KADAPA,Kharif     ,cotton
+1220,Andhra Pradesh,KRISHNA,Kharif     ,cotton
+1221,Andhra Pradesh,KURNOOL,Kharif     ,cotton
+1222,Andhra Pradesh,PRAKASAM,Kharif     ,cotton
+1223,Andhra Pradesh,SPSR NELLORE,Kharif     ,cotton
+1224,Andhra Pradesh,SRIKAKULAM,Kharif     ,cotton
+1225,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,cotton
+1226,Andhra Pradesh,VIZIANAGARAM,Kharif     ,cotton
+1227,Andhra Pradesh,WEST GODAVARI,Kharif     ,cotton
+1228,Assam,BAKSA,Kharif     ,cotton
+1229,Assam,BARPETA,Kharif     ,cotton
+1230,Assam,BONGAIGAON,Kharif     ,cotton
+1231,Assam,CACHAR,Kharif     ,cotton
+1232,Assam,CHIRANG,Kharif     ,cotton
+1233,Assam,DARRANG,Kharif     ,cotton
+1234,Assam,DHEMAJI,Kharif     ,cotton
+1235,Assam,DIMA HASAO,Kharif     ,cotton
+1236,Assam,GOALPARA,Kharif     ,cotton
+1237,Assam,GOLAGHAT,Kharif     ,cotton
+1238,Assam,HAILAKANDI,Kharif     ,cotton
+1239,Assam,JORHAT,Kharif     ,cotton
+1240,Assam,KAMRUP,Kharif     ,cotton
+1241,Assam,KAMRUP METRO,Kharif     ,cotton
+1242,Assam,KARBI ANGLONG,Kharif     ,cotton
+1243,Assam,KARIMGANJ,Kharif     ,cotton
+1244,Assam,KOKRAJHAR,Kharif     ,cotton
+1245,Assam,LAKHIMPUR,Kharif     ,cotton
+1246,Assam,MARIGAON,Kharif     ,cotton
+1247,Assam,NAGAON,Kharif     ,cotton
+1248,Assam,NALBARI,Kharif     ,cotton
+1249,Assam,SIVASAGAR,Kharif     ,cotton
+1250,Assam,SONITPUR,Kharif     ,cotton
+1251,Assam,TINSUKIA,Kharif     ,cotton
+1252,Chhattisgarh,BASTAR,Whole Year ,cotton
+1253,Chhattisgarh,DURG,Whole Year ,cotton
+1254,Chhattisgarh,RAIPUR,Whole Year ,cotton
+1255,Gujarat,AHMADABAD,Kharif     ,cotton
+1256,Gujarat,AMRELI,Kharif     ,cotton
+1257,Gujarat,ANAND,Kharif     ,cotton
+1258,Gujarat,BANAS KANTHA,Kharif     ,cotton
+1259,Gujarat,BHARUCH,Kharif     ,cotton
+1260,Gujarat,BHAVNAGAR,Kharif     ,cotton
+1261,Gujarat,DOHAD,Kharif     ,cotton
+1262,Gujarat,GANDHINAGAR,Kharif     ,cotton
+1263,Gujarat,JAMNAGAR,Kharif     ,cotton
+1264,Gujarat,JUNAGADH,Kharif     ,cotton
+1265,Gujarat,KACHCHH,Kharif     ,cotton
+1266,Gujarat,KHEDA,Kharif     ,cotton
+1267,Gujarat,MAHESANA,Kharif     ,cotton
+1268,Gujarat,NARMADA,Kharif     ,cotton
+1269,Gujarat,PANCH MAHALS,Kharif     ,cotton
+1270,Gujarat,PATAN,Kharif     ,cotton
+1271,Gujarat,PORBANDAR,Kharif     ,cotton
+1272,Gujarat,RAJKOT,Kharif     ,cotton
+1273,Gujarat,SABAR KANTHA,Kharif     ,cotton
+1274,Gujarat,SURAT,Kharif     ,cotton
+1275,Gujarat,SURENDRANAGAR,Kharif     ,cotton
+1276,Gujarat,TAPI,Kharif     ,cotton
+1277,Gujarat,VADODARA,Kharif     ,cotton
+1278,Haryana,AMBALA,Kharif     ,cotton
+1279,Haryana,BHIWANI,Kharif     ,cotton
+1280,Haryana,FATEHABAD,Kharif     ,cotton
+1281,Haryana,GURGAON,Kharif     ,cotton
+1282,Haryana,HISAR,Kharif     ,cotton
+1283,Haryana,JHAJJAR,Kharif     ,cotton
+1284,Haryana,JIND,Kharif     ,cotton
+1285,Haryana,KAITHAL,Kharif     ,cotton
+1286,Haryana,MAHENDRAGARH,Kharif     ,cotton
+1287,Haryana,MEWAT,Kharif     ,cotton
+1288,Haryana,PALWAL,Kharif     ,cotton
+1289,Haryana,PANCHKULA,Kharif     ,cotton
+1290,Haryana,PANIPAT,Kharif     ,cotton
+1291,Haryana,REWARI,Kharif     ,cotton
+1292,Haryana,ROHTAK,Kharif     ,cotton
+1293,Haryana,SIRSA,Kharif     ,cotton
+1294,Haryana,SONIPAT,Kharif     ,cotton
+1295,Haryana,YAMUNANAGAR,Kharif     ,cotton
+1296,Karnataka,BAGALKOT,Whole Year ,cotton
+1297,Karnataka,BELGAUM,Whole Year ,cotton
+1298,Karnataka,BELLARY,Whole Year ,cotton
+1299,Karnataka,BIDAR,Whole Year ,cotton
+1300,Karnataka,BIJAPUR,Whole Year ,cotton
+1301,Karnataka,CHAMARAJANAGAR,Whole Year ,cotton
+1302,Karnataka,CHIKMAGALUR,Whole Year ,cotton
+1303,Karnataka,CHITRADURGA,Whole Year ,cotton
+1304,Karnataka,DAVANGERE,Whole Year ,cotton
+1305,Karnataka,DHARWAD,Whole Year ,cotton
+1306,Karnataka,GADAG,Whole Year ,cotton
+1307,Karnataka,GULBARGA,Whole Year ,cotton
+1308,Karnataka,HASSAN,Whole Year ,cotton
+1309,Karnataka,HAVERI,Whole Year ,cotton
+1310,Karnataka,KOPPAL,Whole Year ,cotton
+1311,Karnataka,MYSORE,Whole Year ,cotton
+1312,Karnataka,RAICHUR,Whole Year ,cotton
+1313,Karnataka,SHIMOGA,Whole Year ,cotton
+1314,Karnataka,TUMKUR,Whole Year ,cotton
+1315,Karnataka,UTTAR KANNAD,Whole Year ,cotton
+1316,Kerala,PALAKKAD,Kharif     ,cotton
+1317,Madhya Pradesh,ALIRAJPUR,Whole Year ,cotton
+1318,Madhya Pradesh,BARWANI,Whole Year ,cotton
+1319,Madhya Pradesh,BETUL,Whole Year ,cotton
+1320,Madhya Pradesh,BURHANPUR,Whole Year ,cotton
+1321,Madhya Pradesh,CHHINDWARA,Whole Year ,cotton
+1322,Madhya Pradesh,DEWAS,Whole Year ,cotton
+1323,Madhya Pradesh,DHAR,Whole Year ,cotton
+1324,Madhya Pradesh,HARDA,Whole Year ,cotton
+1325,Madhya Pradesh,HOSHANGABAD,Whole Year ,cotton
+1326,Madhya Pradesh,INDORE,Whole Year ,cotton
+1327,Madhya Pradesh,JHABUA,Whole Year ,cotton
+1328,Madhya Pradesh,KHANDWA,Whole Year ,cotton
+1329,Madhya Pradesh,KHARGONE,Whole Year ,cotton
+1330,Madhya Pradesh,MANDSAUR,Whole Year ,cotton
+1331,Madhya Pradesh,RAISEN,Whole Year ,cotton
+1332,Madhya Pradesh,RATLAM,Whole Year ,cotton
+1333,Madhya Pradesh,SEHORE,Whole Year ,cotton
+1334,Madhya Pradesh,SHIVPURI,Whole Year ,cotton
+1335,Madhya Pradesh,UJJAIN,Whole Year ,cotton
+1336,Maharashtra,AHMEDNAGAR,Kharif     ,cotton
+1337,Maharashtra,AKOLA,Kharif     ,cotton
+1338,Maharashtra,AMRAVATI,Kharif     ,cotton
+1339,Maharashtra,AURANGABAD,Kharif     ,cotton
+1340,Maharashtra,BEED,Kharif     ,cotton
+1341,Maharashtra,BULDHANA,Kharif     ,cotton
+1342,Maharashtra,CHANDRAPUR,Kharif     ,cotton
+1343,Maharashtra,DHULE,Kharif     ,cotton
+1344,Maharashtra,GADCHIROLI,Kharif     ,cotton
+1345,Maharashtra,HINGOLI,Kharif     ,cotton
+1346,Maharashtra,JALGAON,Kharif     ,cotton
+1347,Maharashtra,JALNA,Kharif     ,cotton
+1348,Maharashtra,KOLHAPUR,Kharif     ,cotton
+1349,Maharashtra,LATUR,Kharif     ,cotton
+1350,Maharashtra,NAGPUR,Kharif     ,cotton
+1351,Maharashtra,NANDED,Kharif     ,cotton
+1352,Maharashtra,NANDURBAR,Kharif     ,cotton
+1353,Maharashtra,NASHIK,Kharif     ,cotton
+1354,Maharashtra,OSMANABAD,Kharif     ,cotton
+1355,Maharashtra,PARBHANI,Kharif     ,cotton
+1356,Maharashtra,SANGLI,Kharif     ,cotton
+1357,Maharashtra,SATARA,Kharif     ,cotton
+1358,Maharashtra,SOLAPUR,Kharif     ,cotton
+1359,Maharashtra,WARDHA,Kharif     ,cotton
+1360,Maharashtra,WASHIM,Kharif     ,cotton
+1361,Maharashtra,YAVATMAL,Kharif     ,cotton
+1362,Meghalaya,EAST GARO HILLS,Kharif     ,cotton
+1363,Meghalaya,SOUTH GARO HILLS,Kharif     ,cotton
+1364,Meghalaya,WEST GARO HILLS,Kharif     ,cotton
+1365,Mizoram,AIZAWL,Kharif     ,cotton
+1366,Mizoram,CHAMPHAI,Kharif     ,cotton
+1367,Mizoram,KOLASIB,Kharif     ,cotton
+1368,Mizoram,LAWNGTLAI,Kharif     ,cotton
+1369,Mizoram,LUNGLEI,Kharif     ,cotton
+1370,Mizoram,MAMIT,Kharif     ,cotton
+1371,Nagaland,MON,Kharif     ,cotton
+1372,Nagaland,PHEK,Kharif     ,cotton
+1373,Puducherry,KARAIKAL,Summer     ,cotton
+1374,Puducherry,PONDICHERRY,Summer     ,cotton
+1375,Punjab,BARNALA,Kharif     ,cotton
+1376,Punjab,BATHINDA,Kharif     ,cotton
+1377,Punjab,FARIDKOT,Kharif     ,cotton
+1378,Punjab,FIROZEPUR,Kharif     ,cotton
+1379,Punjab,LUDHIANA,Kharif     ,cotton
+1380,Punjab,MANSA,Kharif     ,cotton
+1381,Punjab,MOGA,Kharif     ,cotton
+1382,Punjab,MUKTSAR,Kharif     ,cotton
+1383,Punjab,PATIALA,Kharif     ,cotton
+1384,Punjab,SANGRUR,Kharif     ,cotton
+1385,Punjab,TARN TARAN,Kharif     ,cotton
+1386,Rajasthan,AJMER,Kharif     ,cotton
+1387,Rajasthan,ALWAR,Kharif     ,cotton
+1388,Rajasthan,BANSWARA,Kharif     ,cotton
+1389,Rajasthan,BARAN,Kharif     ,cotton
+1390,Rajasthan,BARMER,Kharif     ,cotton
+1391,Rajasthan,BHARATPUR,Kharif     ,cotton
+1392,Rajasthan,BHILWARA,Kharif     ,cotton
+1393,Rajasthan,BIKANER,Kharif     ,cotton
+1394,Rajasthan,BUNDI,Kharif     ,cotton
+1395,Rajasthan,CHITTORGARH,Kharif     ,cotton
+1396,Rajasthan,CHURU,Kharif     ,cotton
+1397,Rajasthan,DAUSA,Kharif     ,cotton
+1398,Rajasthan,DHOLPUR,Kharif     ,cotton
+1399,Rajasthan,DUNGARPUR,Kharif     ,cotton
+1400,Rajasthan,GANGANAGAR,Kharif     ,cotton
+1401,Rajasthan,HANUMANGARH,Kharif     ,cotton
+1402,Rajasthan,JAIPUR,Kharif     ,cotton
+1403,Rajasthan,JAISALMER,Kharif     ,cotton
+1404,Rajasthan,JALORE,Kharif     ,cotton
+1405,Rajasthan,JHALAWAR,Kharif     ,cotton
+1406,Rajasthan,JHUNJHUNU,Kharif     ,cotton
+1407,Rajasthan,JODHPUR,Kharif     ,cotton
+1408,Rajasthan,KARAULI,Kharif     ,cotton
+1409,Rajasthan,KOTA,Kharif     ,cotton
+1410,Rajasthan,NAGAUR,Kharif     ,cotton
+1411,Rajasthan,PALI,Kharif     ,cotton
+1412,Rajasthan,PRATAPGARH,Kharif     ,cotton
+1413,Rajasthan,RAJSAMAND,Kharif     ,cotton
+1414,Rajasthan,SAWAI MADHOPUR,Kharif     ,cotton
+1415,Rajasthan,SIKAR,Kharif     ,cotton
+1416,Rajasthan,SIROHI,Kharif     ,cotton
+1417,Rajasthan,TONK,Kharif     ,cotton
+1418,Rajasthan,UDAIPUR,Kharif     ,cotton
+1419,Tamil Nadu,ARIYALUR,Whole Year ,cotton
+1420,Tamil Nadu,COIMBATORE,Whole Year ,cotton
+1421,Tamil Nadu,CUDDALORE,Whole Year ,cotton
+1422,Tamil Nadu,DHARMAPURI,Whole Year ,cotton
+1423,Tamil Nadu,DINDIGUL,Whole Year ,cotton
+1424,Tamil Nadu,ERODE,Whole Year ,cotton
+1425,Tamil Nadu,KANCHIPURAM,Whole Year ,cotton
+1426,Tamil Nadu,KANNIYAKUMARI,Whole Year ,cotton
+1427,Tamil Nadu,KARUR,Whole Year ,cotton
+1428,Tamil Nadu,KRISHNAGIRI,Whole Year ,cotton
+1429,Tamil Nadu,MADURAI,Whole Year ,cotton
+1430,Tamil Nadu,NAGAPATTINAM,Whole Year ,cotton
+1431,Tamil Nadu,NAMAKKAL,Whole Year ,cotton
+1432,Tamil Nadu,PERAMBALUR,Whole Year ,cotton
+1433,Tamil Nadu,PUDUKKOTTAI,Whole Year ,cotton
+1434,Tamil Nadu,RAMANATHAPURAM,Whole Year ,cotton
+1435,Tamil Nadu,SALEM,Whole Year ,cotton
+1436,Tamil Nadu,SIVAGANGA,Whole Year ,cotton
+1437,Tamil Nadu,THANJAVUR,Whole Year ,cotton
+1438,Tamil Nadu,THE NILGIRIS,Whole Year ,cotton
+1439,Tamil Nadu,THENI,Whole Year ,cotton
+1440,Tamil Nadu,THIRUVARUR,Whole Year ,cotton
+1441,Tamil Nadu,TIRUCHIRAPPALLI,Whole Year ,cotton
+1442,Tamil Nadu,TIRUNELVELI,Whole Year ,cotton
+1443,Tamil Nadu,TIRUPPUR,Whole Year ,cotton
+1444,Tamil Nadu,TIRUVANNAMALAI,Whole Year ,cotton
+1445,Tamil Nadu,TUTICORIN,Whole Year ,cotton
+1446,Tamil Nadu,VELLORE,Whole Year ,cotton
+1447,Tamil Nadu,VILLUPURAM,Whole Year ,cotton
+1448,Tamil Nadu,VIRUDHUNAGAR,Whole Year ,cotton
+1449,Telangana ,ADILABAD,Kharif     ,cotton
+1450,Telangana ,KARIMNAGAR,Kharif     ,cotton
+1451,Telangana ,KHAMMAM,Kharif     ,cotton
+1452,Telangana ,MAHBUBNAGAR,Kharif     ,cotton
+1453,Telangana ,MEDAK,Kharif     ,cotton
+1454,Telangana ,NALGONDA,Kharif     ,cotton
+1455,Telangana ,NIZAMABAD,Kharif     ,cotton
+1456,Telangana ,RANGAREDDI,Kharif     ,cotton
+1457,Telangana ,WARANGAL,Kharif     ,cotton
+1458,Tripura,DHALAI,Kharif     ,cotton
+1459,Tripura,NORTH TRIPURA,Kharif     ,cotton
+1460,Tripura,SOUTH TRIPURA,Kharif     ,cotton
+1461,Tripura,WEST TRIPURA,Kharif     ,cotton
+1462,Uttar Pradesh,AGRA,Kharif     ,cotton
+1463,Uttar Pradesh,ALIGARH,Kharif     ,cotton
+1464,Uttar Pradesh,BAGHPAT,Kharif     ,cotton
+1465,Uttar Pradesh,BULANDSHAHR,Kharif     ,cotton
+1466,Uttar Pradesh,ETAH,Kharif     ,cotton
+1467,Uttar Pradesh,FIROZABAD,Kharif     ,cotton
+1468,Uttar Pradesh,HATHRAS,Kharif     ,cotton
+1469,Uttar Pradesh,MATHURA,Kharif     ,cotton
+1470,Uttar Pradesh,MEERUT,Kharif     ,cotton
+1471,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,cotton
+1472,Uttar Pradesh,SAHARANPUR,Kharif     ,cotton
+1473,Uttar Pradesh,SITAPUR,Kharif     ,cotton
+1474,West Bengal,24 PARAGANAS NORTH,Kharif     ,cotton
+1475,West Bengal,24 PARAGANAS SOUTH,Kharif     ,cotton
+1476,West Bengal,BARDHAMAN,Kharif     ,cotton
+1477,West Bengal,HOWRAH,Kharif     ,cotton
+1478,West Bengal,PURULIA,Kharif     ,cotton
+1479,Andhra Pradesh,ANANTAPUR,Kharif     ,mungbean
+1480,Andhra Pradesh,ANANTAPUR,Rabi       ,mungbean
+1481,Andhra Pradesh,CHITTOOR,Kharif     ,mungbean
+1482,Andhra Pradesh,CHITTOOR,Rabi       ,mungbean
+1483,Andhra Pradesh,EAST GODAVARI,Kharif     ,mungbean
+1484,Andhra Pradesh,EAST GODAVARI,Rabi       ,mungbean
+1485,Andhra Pradesh,GUNTUR,Kharif     ,mungbean
+1486,Andhra Pradesh,GUNTUR,Rabi       ,mungbean
+1487,Andhra Pradesh,KADAPA,Kharif     ,mungbean
+1488,Andhra Pradesh,KADAPA,Rabi       ,mungbean
+1489,Andhra Pradesh,KRISHNA,Kharif     ,mungbean
+1490,Andhra Pradesh,KRISHNA,Rabi       ,mungbean
+1491,Andhra Pradesh,KURNOOL,Kharif     ,mungbean
+1492,Andhra Pradesh,KURNOOL,Rabi       ,mungbean
+1493,Andhra Pradesh,PRAKASAM,Kharif     ,mungbean
+1494,Andhra Pradesh,PRAKASAM,Rabi       ,mungbean
+1495,Andhra Pradesh,SPSR NELLORE,Kharif     ,mungbean
+1496,Andhra Pradesh,SPSR NELLORE,Rabi       ,mungbean
+1497,Andhra Pradesh,SRIKAKULAM,Kharif     ,mungbean
+1498,Andhra Pradesh,SRIKAKULAM,Rabi       ,mungbean
+1499,Andhra Pradesh,VISAKHAPATANAM,Kharif     ,mungbean
+1500,Andhra Pradesh,VISAKHAPATANAM,Rabi       ,mungbean
+1501,Andhra Pradesh,VIZIANAGARAM,Kharif     ,mungbean
+1502,Andhra Pradesh,VIZIANAGARAM,Rabi       ,mungbean
+1503,Andhra Pradesh,WEST GODAVARI,Kharif     ,mungbean
+1504,Andhra Pradesh,WEST GODAVARI,Rabi       ,mungbean
+1505,Assam,BAKSA,Rabi       ,mungbean
+1506,Assam,BARPETA,Rabi       ,mungbean
+1507,Assam,BONGAIGAON,Rabi       ,mungbean
+1508,Assam,CACHAR,Rabi       ,mungbean
+1509,Assam,CHIRANG,Rabi       ,mungbean
+1510,Assam,DARRANG,Rabi       ,mungbean
+1511,Assam,DHEMAJI,Rabi       ,mungbean
+1512,Assam,DHUBRI,Rabi       ,mungbean
+1513,Assam,DIBRUGARH,Rabi       ,mungbean
+1514,Assam,DIMA HASAO,Rabi       ,mungbean
+1515,Assam,GOALPARA,Rabi       ,mungbean
+1516,Assam,GOLAGHAT,Rabi       ,mungbean
+1517,Assam,HAILAKANDI,Rabi       ,mungbean
+1518,Assam,JORHAT,Rabi       ,mungbean
+1519,Assam,KAMRUP,Rabi       ,mungbean
+1520,Assam,KAMRUP METRO,Rabi       ,mungbean
+1521,Assam,KARBI ANGLONG,Rabi       ,mungbean
+1522,Assam,KARIMGANJ,Rabi       ,mungbean
+1523,Assam,KOKRAJHAR,Rabi       ,mungbean
+1524,Assam,LAKHIMPUR,Rabi       ,mungbean
+1525,Assam,MARIGAON,Rabi       ,mungbean
+1526,Assam,NAGAON,Rabi       ,mungbean
+1527,Assam,NALBARI,Rabi       ,mungbean
+1528,Assam,SIVASAGAR,Rabi       ,mungbean
+1529,Assam,SONITPUR,Rabi       ,mungbean
+1530,Assam,TINSUKIA,Rabi       ,mungbean
+1531,Assam,UDALGURI,Rabi       ,mungbean
+1532,Bihar,ARARIA,Kharif     ,mungbean
+1533,Bihar,ARARIA,Summer     ,mungbean
+1534,Bihar,ARWAL,Kharif     ,mungbean
+1535,Bihar,ARWAL,Summer     ,mungbean
+1536,Bihar,AURANGABAD,Summer     ,mungbean
+1537,Bihar,BANKA,Kharif     ,mungbean
+1538,Bihar,BANKA,Summer     ,mungbean
+1539,Bihar,BEGUSARAI,Kharif     ,mungbean
+1540,Bihar,BEGUSARAI,Summer     ,mungbean
+1541,Bihar,BHAGALPUR,Kharif     ,mungbean
+1542,Bihar,BHAGALPUR,Summer     ,mungbean
+1543,Bihar,BHOJPUR,Kharif     ,mungbean
+1544,Bihar,BHOJPUR,Summer     ,mungbean
+1545,Bihar,BUXAR,Summer     ,mungbean
+1546,Bihar,DARBHANGA,Kharif     ,mungbean
+1547,Bihar,DARBHANGA,Summer     ,mungbean
+1548,Bihar,GAYA,Kharif     ,mungbean
+1549,Bihar,GAYA,Summer     ,mungbean
+1550,Bihar,GOPALGANJ,Kharif     ,mungbean
+1551,Bihar,GOPALGANJ,Summer     ,mungbean
+1552,Bihar,JAMUI,Kharif     ,mungbean
+1553,Bihar,JAMUI,Summer     ,mungbean
+1554,Bihar,JEHANABAD,Kharif     ,mungbean
+1555,Bihar,JEHANABAD,Summer     ,mungbean
+1556,Bihar,KAIMUR (BHABUA),Kharif     ,mungbean
+1557,Bihar,KAIMUR (BHABUA),Summer     ,mungbean
+1558,Bihar,KATIHAR,Kharif     ,mungbean
+1559,Bihar,KATIHAR,Summer     ,mungbean
+1560,Bihar,KHAGARIA,Kharif     ,mungbean
+1561,Bihar,KHAGARIA,Summer     ,mungbean
+1562,Bihar,KISHANGANJ,Kharif     ,mungbean
+1563,Bihar,KISHANGANJ,Summer     ,mungbean
+1564,Bihar,LAKHISARAI,Kharif     ,mungbean
+1565,Bihar,MADHEPURA,Kharif     ,mungbean
+1566,Bihar,MADHEPURA,Summer     ,mungbean
+1567,Bihar,MADHUBANI,Kharif     ,mungbean
+1568,Bihar,MADHUBANI,Summer     ,mungbean
+1569,Bihar,MUNGER,Kharif     ,mungbean
+1570,Bihar,MUNGER,Summer     ,mungbean
+1571,Bihar,MUZAFFARPUR,Summer     ,mungbean
+1572,Bihar,NALANDA,Kharif     ,mungbean
+1573,Bihar,NALANDA,Summer     ,mungbean
+1574,Bihar,NAWADA,Kharif     ,mungbean
+1575,Bihar,NAWADA,Summer     ,mungbean
+1576,Bihar,PASHCHIM CHAMPARAN,Kharif     ,mungbean
+1577,Bihar,PASHCHIM CHAMPARAN,Summer     ,mungbean
+1578,Bihar,PATNA,Summer     ,mungbean
+1579,Bihar,PURBI CHAMPARAN,Kharif     ,mungbean
+1580,Bihar,PURBI CHAMPARAN,Summer     ,mungbean
+1581,Bihar,PURNIA,Kharif     ,mungbean
+1582,Bihar,PURNIA,Summer     ,mungbean
+1583,Bihar,ROHTAS,Kharif     ,mungbean
+1584,Bihar,ROHTAS,Summer     ,mungbean
+1585,Bihar,SAHARSA,Kharif     ,mungbean
+1586,Bihar,SAHARSA,Summer     ,mungbean
+1587,Bihar,SAMASTIPUR,Kharif     ,mungbean
+1588,Bihar,SAMASTIPUR,Summer     ,mungbean
+1589,Bihar,SARAN,Kharif     ,mungbean
+1590,Bihar,SARAN,Summer     ,mungbean
+1591,Bihar,SHEIKHPURA,Summer     ,mungbean
+1592,Bihar,SHEOHAR,Kharif     ,mungbean
+1593,Bihar,SHEOHAR,Summer     ,mungbean
+1594,Bihar,SITAMARHI,Summer     ,mungbean
+1595,Bihar,SIWAN,Kharif     ,mungbean
+1596,Bihar,SIWAN,Summer     ,mungbean
+1597,Bihar,SUPAUL,Kharif     ,mungbean
+1598,Bihar,SUPAUL,Summer     ,mungbean
+1599,Bihar,VAISHALI,Kharif     ,mungbean
+1600,Bihar,VAISHALI,Summer     ,mungbean
+1601,Chhattisgarh,BALOD,Kharif     ,mungbean
+1602,Chhattisgarh,BALOD,Rabi       ,mungbean
+1603,Chhattisgarh,BALODA BAZAR,Kharif     ,mungbean
+1604,Chhattisgarh,BALODA BAZAR,Rabi       ,mungbean
+1605,Chhattisgarh,BALRAMPUR,Kharif     ,mungbean
+1606,Chhattisgarh,BALRAMPUR,Rabi       ,mungbean
+1607,Chhattisgarh,BASTAR,Kharif     ,mungbean
+1608,Chhattisgarh,BEMETARA,Kharif     ,mungbean
+1609,Chhattisgarh,BEMETARA,Rabi       ,mungbean
+1610,Chhattisgarh,BIJAPUR,Kharif     ,mungbean
+1611,Chhattisgarh,BIJAPUR,Rabi       ,mungbean
+1612,Chhattisgarh,BILASPUR,Kharif     ,mungbean
+1613,Chhattisgarh,BILASPUR,Rabi       ,mungbean
+1614,Chhattisgarh,DANTEWADA,Kharif     ,mungbean
+1615,Chhattisgarh,DANTEWADA,Rabi       ,mungbean
+1616,Chhattisgarh,DHAMTARI,Kharif     ,mungbean
+1617,Chhattisgarh,DHAMTARI,Rabi       ,mungbean
+1618,Chhattisgarh,DURG,Kharif     ,mungbean
+1619,Chhattisgarh,DURG,Rabi       ,mungbean
+1620,Chhattisgarh,GARIYABAND,Kharif     ,mungbean
+1621,Chhattisgarh,GARIYABAND,Rabi       ,mungbean
+1622,Chhattisgarh,JANJGIR-CHAMPA,Kharif     ,mungbean
+1623,Chhattisgarh,JANJGIR-CHAMPA,Rabi       ,mungbean
+1624,Chhattisgarh,JASHPUR,Kharif     ,mungbean
+1625,Chhattisgarh,KABIRDHAM,Kharif     ,mungbean
+1626,Chhattisgarh,KABIRDHAM,Rabi       ,mungbean
+1627,Chhattisgarh,KANKER,Kharif     ,mungbean
+1628,Chhattisgarh,KANKER,Rabi       ,mungbean
+1629,Chhattisgarh,KONDAGAON,Kharif     ,mungbean
+1630,Chhattisgarh,KONDAGAON,Rabi       ,mungbean
+1631,Chhattisgarh,KORBA,Kharif     ,mungbean
+1632,Chhattisgarh,KORBA,Rabi       ,mungbean
+1633,Chhattisgarh,KOREA,Kharif     ,mungbean
+1634,Chhattisgarh,KOREA,Rabi       ,mungbean
+1635,Chhattisgarh,MAHASAMUND,Kharif     ,mungbean
+1636,Chhattisgarh,MAHASAMUND,Rabi       ,mungbean
+1637,Chhattisgarh,MUNGELI,Kharif     ,mungbean
+1638,Chhattisgarh,MUNGELI,Rabi       ,mungbean
+1639,Chhattisgarh,NARAYANPUR,Kharif     ,mungbean
+1640,Chhattisgarh,RAIGARH,Kharif     ,mungbean
+1641,Chhattisgarh,RAIGARH,Rabi       ,mungbean
+1642,Chhattisgarh,RAIPUR,Kharif     ,mungbean
+1643,Chhattisgarh,RAIPUR,Rabi       ,mungbean
+1644,Chhattisgarh,RAJNANDGAON,Kharif     ,mungbean
+1645,Chhattisgarh,RAJNANDGAON,Rabi       ,mungbean
+1646,Chhattisgarh,SUKMA,Kharif     ,mungbean
+1647,Chhattisgarh,SUKMA,Rabi       ,mungbean
+1648,Chhattisgarh,SURAJPUR,Kharif     ,mungbean
+1649,Chhattisgarh,SURAJPUR,Rabi       ,mungbean
+1650,Chhattisgarh,SURGUJA,Kharif     ,mungbean
+1651,Jammu and Kashmir ,ANANTNAG,Kharif     ,mungbean
+1652,Jammu and Kashmir ,BADGAM,Kharif     ,mungbean
+1653,Jammu and Kashmir ,BARAMULLA,Kharif     ,mungbean
+1654,Jammu and Kashmir ,GANDERBAL,Kharif     ,mungbean
+1655,Jammu and Kashmir ,JAMMU,Kharif     ,mungbean
+1656,Jammu and Kashmir ,KULGAM,Kharif     ,mungbean
+1657,Jammu and Kashmir ,PULWAMA,Kharif     ,mungbean
+1658,Karnataka,BAGALKOT,Kharif     ,mungbean
+1659,Karnataka,BANGALORE RURAL,Kharif     ,mungbean
+1660,Karnataka,BELGAUM,Kharif     ,mungbean
+1661,Karnataka,BELGAUM,Rabi       ,mungbean
+1662,Karnataka,BELLARY,Kharif     ,mungbean
+1663,Karnataka,BELLARY,Rabi       ,mungbean
+1664,Karnataka,BENGALURU URBAN,Kharif     ,mungbean
+1665,Karnataka,BIDAR,Kharif     ,mungbean
+1666,Karnataka,BIJAPUR,Kharif     ,mungbean
+1667,Karnataka,CHAMARAJANAGAR,Kharif     ,mungbean
+1668,Karnataka,CHIKMAGALUR,Kharif     ,mungbean
+1669,Karnataka,CHIKMAGALUR,Rabi       ,mungbean
+1670,Karnataka,CHITRADURGA,Kharif     ,mungbean
+1671,Karnataka,DAKSHIN KANNAD,Rabi       ,mungbean
+1672,Karnataka,DAVANGERE,Kharif     ,mungbean
+1673,Karnataka,DAVANGERE,Rabi       ,mungbean
+1674,Karnataka,DHARWAD,Kharif     ,mungbean
+1675,Karnataka,DHARWAD,Rabi       ,mungbean
+1676,Karnataka,GADAG,Kharif     ,mungbean
+1677,Karnataka,GULBARGA,Kharif     ,mungbean
+1678,Karnataka,HASSAN,Kharif     ,mungbean
+1679,Karnataka,HASSAN,Rabi       ,mungbean
+1680,Karnataka,HAVERI,Kharif     ,mungbean
+1681,Karnataka,HAVERI,Rabi       ,mungbean
+1682,Karnataka,KOPPAL,Kharif     ,mungbean
+1683,Karnataka,MANDYA,Kharif     ,mungbean
+1684,Karnataka,MANDYA,Rabi       ,mungbean
+1685,Karnataka,MYSORE,Kharif     ,mungbean
+1686,Karnataka,MYSORE,Rabi       ,mungbean
+1687,Karnataka,RAICHUR,Kharif     ,mungbean
+1688,Karnataka,RAMANAGARA,Kharif     ,mungbean
+1689,Karnataka,SHIMOGA,Kharif     ,mungbean
+1690,Karnataka,SHIMOGA,Rabi       ,mungbean
+1691,Karnataka,TUMKUR,Kharif     ,mungbean
+1692,Karnataka,UDUPI,Rabi       ,mungbean
+1693,Karnataka,UTTAR KANNAD,Rabi       ,mungbean
+1694,Karnataka,YADGIR,Kharif     ,mungbean
+1695,Kerala,ALAPPUZHA,Whole Year ,mungbean
+1696,Kerala,ERNAKULAM,Whole Year ,mungbean
+1697,Kerala,KANNUR,Whole Year ,mungbean
+1698,Kerala,KASARAGOD,Whole Year ,mungbean
+1699,Kerala,KOLLAM,Whole Year ,mungbean
+1700,Kerala,KOZHIKODE,Whole Year ,mungbean
+1701,Kerala,PALAKKAD,Whole Year ,mungbean
+1702,Kerala,THIRUVANANTHAPURAM,Whole Year ,mungbean
+1703,Maharashtra,AHMEDNAGAR,Kharif     ,mungbean
+1704,Maharashtra,AKOLA,Kharif     ,mungbean
+1705,Maharashtra,AMRAVATI,Kharif     ,mungbean
+1706,Maharashtra,AURANGABAD,Kharif     ,mungbean
+1707,Maharashtra,BEED,Kharif     ,mungbean
+1708,Maharashtra,BHANDARA,Kharif     ,mungbean
+1709,Maharashtra,BULDHANA,Kharif     ,mungbean
+1710,Maharashtra,CHANDRAPUR,Kharif     ,mungbean
+1711,Maharashtra,DHULE,Kharif     ,mungbean
+1712,Maharashtra,GONDIA,Kharif     ,mungbean
+1713,Maharashtra,HINGOLI,Kharif     ,mungbean
+1714,Maharashtra,JALGAON,Kharif     ,mungbean
+1715,Maharashtra,JALNA,Kharif     ,mungbean
+1716,Maharashtra,KOLHAPUR,Kharif     ,mungbean
+1717,Maharashtra,LATUR,Kharif     ,mungbean
+1718,Maharashtra,NAGPUR,Kharif     ,mungbean
+1719,Maharashtra,NANDED,Kharif     ,mungbean
+1720,Maharashtra,NANDURBAR,Kharif     ,mungbean
+1721,Maharashtra,NASHIK,Kharif     ,mungbean
+1722,Maharashtra,OSMANABAD,Kharif     ,mungbean
+1723,Maharashtra,PALGHAR,Kharif     ,mungbean
+1724,Maharashtra,PARBHANI,Kharif     ,mungbean
+1725,Maharashtra,PUNE,Kharif     ,mungbean
+1726,Maharashtra,RAIGAD,Kharif     ,mungbean
+1727,Maharashtra,RATNAGIRI,Kharif     ,mungbean
+1728,Maharashtra,SANGLI,Kharif     ,mungbean
+1729,Maharashtra,SATARA,Kharif     ,mungbean
+1730,Maharashtra,SINDHUDURG,Kharif     ,mungbean
+1731,Maharashtra,SOLAPUR,Kharif     ,mungbean
+1732,Maharashtra,THANE,Kharif     ,mungbean
+1733,Maharashtra,WARDHA,Kharif     ,mungbean
+1734,Maharashtra,WASHIM,Kharif     ,mungbean
+1735,Maharashtra,YAVATMAL,Kharif     ,mungbean
+1736,Nagaland,DIMAPUR,Kharif     ,mungbean
+1737,Nagaland,KOHIMA,Kharif     ,mungbean
+1738,Nagaland,MOKOKCHUNG,Kharif     ,mungbean
+1739,Nagaland,MON,Kharif     ,mungbean
+1740,Nagaland,PEREN,Kharif     ,mungbean
+1741,Nagaland,PHEK,Kharif     ,mungbean
+1742,Nagaland,TUENSANG,Kharif     ,mungbean
+1743,Nagaland,WOKHA,Kharif     ,mungbean
+1744,Nagaland,ZUNHEBOTO,Kharif     ,mungbean
+1745,Odisha,ANUGUL,Autumn     ,mungbean
+1746,Odisha,ANUGUL,Summer     ,mungbean
+1747,Odisha,ANUGUL,Winter     ,mungbean
+1748,Odisha,BALANGIR,Autumn     ,mungbean
+1749,Odisha,BALANGIR,Summer     ,mungbean
+1750,Odisha,BALANGIR,Winter     ,mungbean
+1751,Odisha,BALESHWAR,Summer     ,mungbean
+1752,Odisha,BARGARH,Autumn     ,mungbean
+1753,Odisha,BARGARH,Summer     ,mungbean
+1754,Odisha,BARGARH,Winter     ,mungbean
+1755,Odisha,BHADRAK,Summer     ,mungbean
+1756,Odisha,BOUDH,Autumn     ,mungbean
+1757,Odisha,BOUDH,Summer     ,mungbean
+1758,Odisha,BOUDH,Winter     ,mungbean
+1759,Odisha,CUTTACK,Summer     ,mungbean
+1760,Odisha,DEOGARH,Summer     ,mungbean
+1761,Odisha,DEOGARH,Winter     ,mungbean
+1762,Odisha,DHENKANAL,Autumn     ,mungbean
+1763,Odisha,DHENKANAL,Summer     ,mungbean
+1764,Odisha,DHENKANAL,Winter     ,mungbean
+1765,Odisha,GAJAPATI,Winter     ,mungbean
+1766,Odisha,GANJAM,Summer     ,mungbean
+1767,Odisha,GANJAM,Winter     ,mungbean
+1768,Odisha,JAGATSINGHAPUR,Summer     ,mungbean
+1769,Odisha,JAJAPUR,Summer     ,mungbean
+1770,Odisha,JHARSUGUDA,Summer     ,mungbean
+1771,Odisha,KALAHANDI,Summer     ,mungbean
+1772,Odisha,KALAHANDI,Winter     ,mungbean
+1773,Odisha,KANDHAMAL,Winter     ,mungbean
+1774,Odisha,KENDRAPARA,Summer     ,mungbean
+1775,Odisha,KENDUJHAR,Summer     ,mungbean
+1776,Odisha,KENDUJHAR,Winter     ,mungbean
+1777,Odisha,KHORDHA,Summer     ,mungbean
+1778,Odisha,KHORDHA,Winter     ,mungbean
+1779,Odisha,KORAPUT,Summer     ,mungbean
+1780,Odisha,KORAPUT,Winter     ,mungbean
+1781,Odisha,MALKANGIRI,Summer     ,mungbean
+1782,Odisha,MALKANGIRI,Winter     ,mungbean
+1783,Odisha,MAYURBHANJ,Summer     ,mungbean
+1784,Odisha,MAYURBHANJ,Winter     ,mungbean
+1785,Odisha,NABARANGPUR,Summer     ,mungbean
+1786,Odisha,NAYAGARH,Winter     ,mungbean
+1787,Odisha,NUAPADA,Autumn     ,mungbean
+1788,Odisha,NUAPADA,Summer     ,mungbean
+1789,Odisha,NUAPADA,Winter     ,mungbean
+1790,Odisha,PURI,Summer     ,mungbean
+1791,Odisha,RAYAGADA,Summer     ,mungbean
+1792,Odisha,RAYAGADA,Winter     ,mungbean
+1793,Odisha,SAMBALPUR,Autumn     ,mungbean
+1794,Odisha,SAMBALPUR,Summer     ,mungbean
+1795,Odisha,SAMBALPUR,Winter     ,mungbean
+1796,Odisha,SONEPUR,Autumn     ,mungbean
+1797,Odisha,SONEPUR,Summer     ,mungbean
+1798,Odisha,SONEPUR,Winter     ,mungbean
+1799,Odisha,SUNDARGARH,Autumn     ,mungbean
+1800,Odisha,SUNDARGARH,Summer     ,mungbean
+1801,Odisha,SUNDARGARH,Winter     ,mungbean
+1802,Puducherry,KARAIKAL,Summer     ,mungbean
+1803,Puducherry,PONDICHERRY,Summer     ,mungbean
+1804,Puducherry,YANAM,Rabi       ,mungbean
+1805,Puducherry,YANAM,Summer     ,mungbean
+1806,Punjab,AMRITSAR,Kharif     ,mungbean
+1807,Punjab,BARNALA,Kharif     ,mungbean
+1808,Punjab,BATHINDA,Kharif     ,mungbean
+1809,Punjab,FARIDKOT,Kharif     ,mungbean
+1810,Punjab,FAZILKA,Kharif     ,mungbean
+1811,Punjab,FIROZEPUR,Kharif     ,mungbean
+1812,Punjab,LUDHIANA,Kharif     ,mungbean
+1813,Punjab,MOGA,Kharif     ,mungbean
+1814,Punjab,MUKTSAR,Kharif     ,mungbean
+1815,Punjab,SANGRUR,Kharif     ,mungbean
+1816,Punjab,TARN TARAN,Kharif     ,mungbean
+1817,Telangana ,ADILABAD,Kharif     ,mungbean
+1818,Telangana ,ADILABAD,Rabi       ,mungbean
+1819,Telangana ,KARIMNAGAR,Kharif     ,mungbean
+1820,Telangana ,KARIMNAGAR,Rabi       ,mungbean
+1821,Telangana ,KHAMMAM,Kharif     ,mungbean
+1822,Telangana ,KHAMMAM,Rabi       ,mungbean
+1823,Telangana ,MAHBUBNAGAR,Kharif     ,mungbean
+1824,Telangana ,MAHBUBNAGAR,Rabi       ,mungbean
+1825,Telangana ,MEDAK,Kharif     ,mungbean
+1826,Telangana ,MEDAK,Rabi       ,mungbean
+1827,Telangana ,NALGONDA,Kharif     ,mungbean
+1828,Telangana ,NALGONDA,Rabi       ,mungbean
+1829,Telangana ,NIZAMABAD,Kharif     ,mungbean
+1830,Telangana ,NIZAMABAD,Rabi       ,mungbean
+1831,Telangana ,RANGAREDDI,Kharif     ,mungbean
+1832,Telangana ,WARANGAL,Kharif     ,mungbean
+1833,Telangana ,WARANGAL,Rabi       ,mungbean
+1834,Tripura,DHALAI,Kharif     ,mungbean
+1835,Tripura,DHALAI,Rabi       ,mungbean
+1836,Tripura,GOMATI,Kharif     ,mungbean
+1837,Tripura,GOMATI,Rabi       ,mungbean
+1838,Tripura,KHOWAI,Kharif     ,mungbean
+1839,Tripura,KHOWAI,Rabi       ,mungbean
+1840,Tripura,NORTH TRIPURA,Kharif     ,mungbean
+1841,Tripura,NORTH TRIPURA,Rabi       ,mungbean
+1842,Tripura,SEPAHIJALA,Kharif     ,mungbean
+1843,Tripura,SEPAHIJALA,Rabi       ,mungbean
+1844,Tripura,SOUTH TRIPURA,Kharif     ,mungbean
+1845,Tripura,SOUTH TRIPURA,Rabi       ,mungbean
+1846,Tripura,UNAKOTI,Kharif     ,mungbean
+1847,Tripura,UNAKOTI,Rabi       ,mungbean
+1848,Tripura,WEST TRIPURA,Kharif     ,mungbean
+1849,Tripura,WEST TRIPURA,Rabi       ,mungbean
+1850,Uttar Pradesh,AGRA,Kharif     ,mungbean
+1851,Uttar Pradesh,AGRA,Summer     ,mungbean
+1852,Uttar Pradesh,ALIGARH,Kharif     ,mungbean
+1853,Uttar Pradesh,ALIGARH,Summer     ,mungbean
+1854,Uttar Pradesh,ALLAHABAD,Summer     ,mungbean
+1855,Uttar Pradesh,AMBEDKAR NAGAR,Kharif     ,mungbean
+1856,Uttar Pradesh,AMBEDKAR NAGAR,Summer     ,mungbean
+1857,Uttar Pradesh,AMETHI,Kharif     ,mungbean
+1858,Uttar Pradesh,AMETHI,Summer     ,mungbean
+1859,Uttar Pradesh,AMROHA,Kharif     ,mungbean
+1860,Uttar Pradesh,AMROHA,Summer     ,mungbean
+1861,Uttar Pradesh,AURAIYA,Kharif     ,mungbean
+1862,Uttar Pradesh,AURAIYA,Summer     ,mungbean
+1863,Uttar Pradesh,AZAMGARH,Kharif     ,mungbean
+1864,Uttar Pradesh,AZAMGARH,Summer     ,mungbean
+1865,Uttar Pradesh,BAGHPAT,Kharif     ,mungbean
+1866,Uttar Pradesh,BAGHPAT,Summer     ,mungbean
+1867,Uttar Pradesh,BAHRAICH,Summer     ,mungbean
+1868,Uttar Pradesh,BALLIA,Kharif     ,mungbean
+1869,Uttar Pradesh,BALLIA,Summer     ,mungbean
+1870,Uttar Pradesh,BANDA,Kharif     ,mungbean
+1871,Uttar Pradesh,BANDA,Summer     ,mungbean
+1872,Uttar Pradesh,BARABANKI,Kharif     ,mungbean
+1873,Uttar Pradesh,BARABANKI,Summer     ,mungbean
+1874,Uttar Pradesh,BAREILLY,Kharif     ,mungbean
+1875,Uttar Pradesh,BASTI,Summer     ,mungbean
+1876,Uttar Pradesh,BIJNOR,Summer     ,mungbean
+1877,Uttar Pradesh,BUDAUN,Kharif     ,mungbean
+1878,Uttar Pradesh,BUDAUN,Summer     ,mungbean
+1879,Uttar Pradesh,BULANDSHAHR,Kharif     ,mungbean
+1880,Uttar Pradesh,BULANDSHAHR,Summer     ,mungbean
+1881,Uttar Pradesh,CHANDAULI,Kharif     ,mungbean
+1882,Uttar Pradesh,CHANDAULI,Summer     ,mungbean
+1883,Uttar Pradesh,CHITRAKOOT,Kharif     ,mungbean
+1884,Uttar Pradesh,DEORIA,Kharif     ,mungbean
+1885,Uttar Pradesh,DEORIA,Summer     ,mungbean
+1886,Uttar Pradesh,ETAH,Kharif     ,mungbean
+1887,Uttar Pradesh,ETAH,Summer     ,mungbean
+1888,Uttar Pradesh,ETAWAH,Kharif     ,mungbean
+1889,Uttar Pradesh,ETAWAH,Summer     ,mungbean
+1890,Uttar Pradesh,FAIZABAD,Summer     ,mungbean
+1891,Uttar Pradesh,FARRUKHABAD,Kharif     ,mungbean
+1892,Uttar Pradesh,FARRUKHABAD,Summer     ,mungbean
+1893,Uttar Pradesh,FATEHPUR,Kharif     ,mungbean
+1894,Uttar Pradesh,FATEHPUR,Summer     ,mungbean
+1895,Uttar Pradesh,FIROZABAD,Kharif     ,mungbean
+1896,Uttar Pradesh,FIROZABAD,Summer     ,mungbean
+1897,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Summer     ,mungbean
+1898,Uttar Pradesh,GHAZIABAD,Summer     ,mungbean
+1899,Uttar Pradesh,GHAZIPUR,Kharif     ,mungbean
+1900,Uttar Pradesh,GHAZIPUR,Summer     ,mungbean
+1901,Uttar Pradesh,GONDA,Kharif     ,mungbean
+1902,Uttar Pradesh,GONDA,Summer     ,mungbean
+1903,Uttar Pradesh,GORAKHPUR,Summer     ,mungbean
+1904,Uttar Pradesh,HAMIRPUR,Kharif     ,mungbean
+1905,Uttar Pradesh,HAMIRPUR,Summer     ,mungbean
+1906,Uttar Pradesh,HAPUR,Kharif     ,mungbean
+1907,Uttar Pradesh,HAPUR,Summer     ,mungbean
+1908,Uttar Pradesh,HARDOI,Kharif     ,mungbean
+1909,Uttar Pradesh,HARDOI,Summer     ,mungbean
+1910,Uttar Pradesh,HATHRAS,Kharif     ,mungbean
+1911,Uttar Pradesh,HATHRAS,Summer     ,mungbean
+1912,Uttar Pradesh,JALAUN,Kharif     ,mungbean
+1913,Uttar Pradesh,JALAUN,Summer     ,mungbean
+1914,Uttar Pradesh,JAUNPUR,Kharif     ,mungbean
+1915,Uttar Pradesh,JAUNPUR,Summer     ,mungbean
+1916,Uttar Pradesh,JHANSI,Kharif     ,mungbean
+1917,Uttar Pradesh,JHANSI,Summer     ,mungbean
+1918,Uttar Pradesh,KANNAUJ,Kharif     ,mungbean
+1919,Uttar Pradesh,KANNAUJ,Summer     ,mungbean
+1920,Uttar Pradesh,KANPUR DEHAT,Kharif     ,mungbean
+1921,Uttar Pradesh,KANPUR DEHAT,Summer     ,mungbean
+1922,Uttar Pradesh,KANPUR NAGAR,Kharif     ,mungbean
+1923,Uttar Pradesh,KANPUR NAGAR,Summer     ,mungbean
+1924,Uttar Pradesh,KASGANJ,Kharif     ,mungbean
+1925,Uttar Pradesh,KASGANJ,Summer     ,mungbean
+1926,Uttar Pradesh,KAUSHAMBI,Kharif     ,mungbean
+1927,Uttar Pradesh,KAUSHAMBI,Summer     ,mungbean
+1928,Uttar Pradesh,KHERI,Kharif     ,mungbean
+1929,Uttar Pradesh,KHERI,Summer     ,mungbean
+1930,Uttar Pradesh,KUSHI NAGAR,Kharif     ,mungbean
+1931,Uttar Pradesh,KUSHI NAGAR,Summer     ,mungbean
+1932,Uttar Pradesh,LALITPUR,Kharif     ,mungbean
+1933,Uttar Pradesh,LALITPUR,Summer     ,mungbean
+1934,Uttar Pradesh,LUCKNOW,Kharif     ,mungbean
+1935,Uttar Pradesh,LUCKNOW,Summer     ,mungbean
+1936,Uttar Pradesh,MAHARAJGANJ,Summer     ,mungbean
+1937,Uttar Pradesh,MAHOBA,Kharif     ,mungbean
+1938,Uttar Pradesh,MAINPURI,Kharif     ,mungbean
+1939,Uttar Pradesh,MAINPURI,Summer     ,mungbean
+1940,Uttar Pradesh,MATHURA,Kharif     ,mungbean
+1941,Uttar Pradesh,MATHURA,Summer     ,mungbean
+1942,Uttar Pradesh,MAU,Kharif     ,mungbean
+1943,Uttar Pradesh,MAU,Summer     ,mungbean
+1944,Uttar Pradesh,MEERUT,Kharif     ,mungbean
+1945,Uttar Pradesh,MEERUT,Summer     ,mungbean
+1946,Uttar Pradesh,MIRZAPUR,Kharif     ,mungbean
+1947,Uttar Pradesh,MIRZAPUR,Summer     ,mungbean
+1948,Uttar Pradesh,MORADABAD,Kharif     ,mungbean
+1949,Uttar Pradesh,MORADABAD,Summer     ,mungbean
+1950,Uttar Pradesh,MUZAFFARNAGAR,Kharif     ,mungbean
+1951,Uttar Pradesh,MUZAFFARNAGAR,Summer     ,mungbean
+1952,Uttar Pradesh,PILIBHIT,Summer     ,mungbean
+1953,Uttar Pradesh,PRATAPGARH,Kharif     ,mungbean
+1954,Uttar Pradesh,PRATAPGARH,Summer     ,mungbean
+1955,Uttar Pradesh,RAE BARELI,Kharif     ,mungbean
+1956,Uttar Pradesh,RAE BARELI,Summer     ,mungbean
+1957,Uttar Pradesh,RAMPUR,Kharif     ,mungbean
+1958,Uttar Pradesh,SAHARANPUR,Summer     ,mungbean
+1959,Uttar Pradesh,SAMBHAL,Kharif     ,mungbean
+1960,Uttar Pradesh,SANT RAVIDAS NAGAR,Summer     ,mungbean
+1961,Uttar Pradesh,SHAHJAHANPUR,Kharif     ,mungbean
+1962,Uttar Pradesh,SHAHJAHANPUR,Summer     ,mungbean
+1963,Uttar Pradesh,SHAMLI,Summer     ,mungbean
+1964,Uttar Pradesh,SITAPUR,Kharif     ,mungbean
+1965,Uttar Pradesh,SONBHADRA,Kharif     ,mungbean
+1966,Uttar Pradesh,SONBHADRA,Summer     ,mungbean
+1967,Uttar Pradesh,SULTANPUR,Kharif     ,mungbean
+1968,Uttar Pradesh,SULTANPUR,Summer     ,mungbean
+1969,Uttar Pradesh,UNNAO,Kharif     ,mungbean
+1970,Uttar Pradesh,UNNAO,Summer     ,mungbean
+1971,Uttar Pradesh,VARANASI,Kharif     ,mungbean
+1972,Uttar Pradesh,VARANASI,Summer     ,mungbean
+1973,Uttarakhand,DEHRADUN,Kharif     ,mungbean
+1974,Uttarakhand,HARIDWAR,Summer     ,mungbean
+1975,Uttarakhand,NAINITAL,Kharif     ,mungbean
+1976,Uttarakhand,UDAM SINGH NAGAR,Kharif     ,mungbean
+1977,Uttarakhand,UDAM SINGH NAGAR,Summer     ,mungbean
+1978,West Bengal,24 PARAGANAS NORTH,Summer     ,mungbean
+1979,West Bengal,24 PARAGANAS SOUTH,Summer     ,mungbean
+1980,West Bengal,BANKURA,Summer     ,mungbean
+1981,West Bengal,BARDHAMAN,Kharif     ,mungbean
+1982,West Bengal,BARDHAMAN,Rabi       ,mungbean
+1983,West Bengal,BARDHAMAN,Summer     ,mungbean
+1984,West Bengal,BIRBHUM,Summer     ,mungbean
+1985,West Bengal,COOCHBEHAR,Rabi       ,mungbean
+1986,West Bengal,COOCHBEHAR,Summer     ,mungbean
+1987,West Bengal,DARJEELING,Kharif     ,mungbean
+1988,West Bengal,DARJEELING,Rabi       ,mungbean
+1989,West Bengal,DARJEELING,Summer     ,mungbean
+1990,West Bengal,DINAJPUR UTTAR,Kharif     ,mungbean
+1991,West Bengal,DINAJPUR UTTAR,Summer     ,mungbean
+1992,West Bengal,HOOGHLY,Rabi       ,mungbean
+1993,West Bengal,HOOGHLY,Summer     ,mungbean
+1994,West Bengal,HOWRAH,Kharif     ,mungbean
+1995,West Bengal,HOWRAH,Summer     ,mungbean
+1996,West Bengal,JALPAIGURI,Kharif     ,mungbean
+1997,West Bengal,JALPAIGURI,Rabi       ,mungbean
+1998,West Bengal,JALPAIGURI,Summer     ,mungbean
+1999,West Bengal,MALDAH,Kharif     ,mungbean
+2000,West Bengal,MALDAH,Rabi       ,mungbean
+2001,West Bengal,MALDAH,Summer     ,mungbean
+2002,West Bengal,MEDINIPUR EAST,Summer     ,mungbean
+2003,West Bengal,MEDINIPUR WEST,Kharif     ,mungbean
+2004,West Bengal,MEDINIPUR WEST,Rabi       ,mungbean
+2005,West Bengal,MEDINIPUR WEST,Summer     ,mungbean
+2006,West Bengal,MURSHIDABAD,Kharif     ,mungbean
+2007,West Bengal,MURSHIDABAD,Rabi       ,mungbean
+2008,West Bengal,MURSHIDABAD,Summer     ,mungbean
+2009,West Bengal,NADIA,Kharif     ,mungbean
+2010,West Bengal,NADIA,Rabi       ,mungbean
+2011,West Bengal,NADIA,Summer     ,mungbean
+2012,West Bengal,PURULIA,Kharif     ,mungbean
+2013,West Bengal,PURULIA,Rabi       ,mungbean
