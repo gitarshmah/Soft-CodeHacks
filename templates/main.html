@@ -1,0 +1,20 @@
+<h1>
+    Welcome to the puppy survey
+    <form method="POST">
+        {{form.hidden_tag()}}
+        {{form.temperature.label}}{{form.temperature}}
+        <br>
+        {{form.humidity.label}}{{form.humidity}}
+        <br>
+        {{form.ph.label}}{{form.ph}}
+        <br>
+        {{form.rainfall.label}}{{form.rainfall}}
+        <br>
+        {{form.ChooseState.label}}{{form.ChooseState}}
+        <br>
+        
+       
+        {{form.submit()}}
+    </form>
+
+</h1>
