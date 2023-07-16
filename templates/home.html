@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+<style>
+    *{
+        margin : 0;
+        padding : 0;
+    }
+    
+    body{
+        background : url('https://www.sare.org/wp-content/uploads/Cover-Crop-Images-Library-screenshot.jpg') no-repeat center center/cover;;
+        color : red;
+        font-family: 'Poppins' , sans-serif;
+    }
+    
+    nav{
+        display : flex;
+        justify-content : space-around;
+        align-items : center;
+        height : 80px;
+        background-color: rgb(21, 21, 69);
+    }
+    nav ul{
+        display : flex;
+        justify-content: center;
+    }
+    
+    nav ul li{
+        list-style : none;
+        margin : 0px 23px;
+    }
+    
+    nav .right ul li a{
+        color : white;
+        text-decoration: none;
+        font-size : 23px;
+    }
+    
+    nav .right ul li a:hover{
+        color : rgb(137, 137, 175);
+        text-decoration: underline;
+    }
+    
+    .left{
+        font-size: 1.7rem;
+    }
+    
+    .btn{
+        padding : 6px 20px;
+        border: 2px solid pink;
+        background-color: rgba(10, 44, 2, 0.808);
+        color : white;
+        margin: 18px 17px;
+        border-radius : 12px;
+        font-size: 1.5rem;   
+        
+    }
+    
+    .btn:hover{
+        background-color: red;
+        cursor : pointer;
+        opacity : 0.9;
+    }
+    
+
+    #home{
+        display : flex;
+        flex-direction : column;
+        height : 695px;
+        width : 400px;
+        padding : 3px 200px;
+        justify-content: center;
+        align-items: center;
+        background-color : #7de49a;;
+        border-radius : 9px;
+    }
+      
+    #home h1{
+        color : green;
+        text-align : center;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    #home p{
+        color : green;
+        text-align : center;
+        font-size : 1.5rem;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    /*Service Section*/
+    
+    #services{
+       /* margin : 34px; */
+       display : flex;
+       /* background-color: rgb(226, 210, 186); */
+    }
+    
+    #services .box{
+        border : 2px solid brown;
+        padding : 34px;
+        margin : 25px;
+        border-radius : 15px;
+        background-color: #DCF762;
+        color :rgb(56, 5, 5);
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    #services .box:hover{
+        box-shadow: 4px 4px red;
+        cursor : pointer;
+    }
+    
+    #services .box img{
+        height: 160px;
+        margin : auto;
+        display: block;
+    }
+    
+    #services .box p{
+        font-family :  'Baloo Bhai 2', cursive;
+    }
+    
+    .h-primary_home{
+        font-size : 3.8rem;
+        padding: 12px; 
+        font-family: 'Roboto', sans-serif;
+    }
+    .h-primary{
+        font-size : 3.8rem;
+        padding: 12px;
+        /* background-color:rgb(226, 210, 186); */
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .h-primary:hover{
+        color :rgb(8, 65, 76);
+        cursor : pointer;
+    }
+    
+    .h-secondary{
+        font-size : 2rem;
+        padding: 12px;
+        font-family: 'Roboto', sans-serif;
+        color :rgb(200, 92, 92);
+    }
+
+    .crop{
+        color : black;
+        font-size : 35px;
+    }
+
+    .crop : hover{
+        color : brown;
+        cursor : pointer;
+    }
+
+</style>   
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="left">CoderGirls</div>
+            <div class="right">
+                <ul>
+                   <li><a href="{{ url_for('home') }}">Home</a></li> 
+                   <li><a href="{{ url_for('login') }}">Login</a></li>
+                   <li><a href="{{ url_for('register') }}">Register</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <center>
+    <section id="home">
+        <h1 class="h-primary_home">Welcome to our web application</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, quidem sapiente deleniti incidunt exercitationem ipsa, assumenda corporis voluptatibus repellat est eos ut necessitatibus numquam voluptate ad laborum itaque rerum. Repudiandae nostrum praesentium temporibus natus?</p>
+         <button class="btn">Contact Us</button>
+    </section>
+</center>
+    <section class="services-container">
+    
+     <div id="services">
+        <div class="box">
+            <img src="https://images.unsplash.com/photo-1437252611977-07f74518abd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8d2hlYXQlMjBjcm9wfGVufDB8fDB8fHww&w=1000&q=80" alt="">
+            <h2 class="h-secondary center">Wheat</h2>
+            <p class="center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, minima blanditiis modi ipsa perspiciatis obcaecati et, ut adipisci tempora dolores esse aut aliquid, voluptates suscipit nesciunt architecto quaerat libero possimus ratione ad dicta distinctio?</p>
+        </div>
+        <div class="box">
+            <img src="https://news.uchicago.edu/sites/default/files/styles/full_width/public/images/2021-07/rice_plant_and_rice_grains.jpg?itok=RpdGHlYJ" alt="">
+            <h2 class="h-secondary center">Rice</h2>
+            <p class="center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, minima blanditiis modi ipsa perspiciatis obcaecati et, ut adipisci tempora dolores esse aut aliquid, voluptates suscipit nesciunt architecto quaerat libero possimus ratione ad dicta distinctio?</p>
+        </div>
+        <div class="box">
+            <img src="https://media.istockphoto.com/id/1453038653/photo/sugarcane-field-at-sunrise-in-thailand.webp?b=1&s=170667a&w=0&k=20&c=inNiujZVM8BuVux7DnSB4fpIHaLxswAPbHSZx_JXc1E=" alt="">
+            <h2 class="h-secondary center">SugarCane</h2>
+            <p class="center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, minima blanditiis modi ipsa perspiciatis obcaecati et, ut adipisci tempora dolores esse aut aliquid, voluptates suscipit nesciunt architecto quaerat libero possimus ratione ad dicta distinctio?</p>
+        </div>
+     </div>
+     <div id="services">
+        <div class="box">
+            <img src="https://www.graincentral.com/wp-content/uploads/2018/01/180131-Mustard-potential-pic-crop.jpg" alt="">
+            <h2 class="h-secondary center">Mustard</h2>
+            <p class="center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, minima blanditiis modi ipsa perspiciatis obcaecati et, ut adipisci tempora dolores esse aut aliquid, voluptates suscipit nesciunt architecto quaerat libero possimus ratione ad dicta distinctio?</p>
+        </div>
+        <div class="box">
+            <img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/02/22/aaf84c70caa8ed183be720faa500690aca0ef.JPG?impolicy=abp_cdn&imwidth=650" alt="">
+            <h2 class="h-secondary center">Gram</h2>
+            <p class="center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, minima blanditiis modi ipsa perspiciatis obcaecati et, ut adipisci tempora dolores esse aut aliquid, voluptates suscipit nesciunt architecto quaerat libero possimus ratione ad dicta distinctio?</p>
+        </div>
+        <div class="box">
+            <img src="https://cdn.britannica.com/33/75933-050-826C8817/Rows-corn-field-Nebraska.jpg" alt="">
+            <h2 class="h-secondary center">Corn</h2>
+            <p class="center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit, minima blanditiis modi ipsa perspiciatis obcaecati et, ut adipisci tempora dolores esse aut aliquid, voluptates suscipit nesciunt architecto quaerat libero possimus ratione ad dicta distinctio?</p>
+        </div>
+     </div>
+    </section>
+</body>
+
+</html>

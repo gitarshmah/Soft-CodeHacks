@@ -1,4 +1,4 @@
-from flask import render_template, session, Flask, redirect, url_for
+from flask import render_template, session, Flask, redirect, url_for,request
 from flask_wtf import *
 from wtforms import *
 from wtforms.validators import *
@@ -13,7 +13,17 @@ class infoform(FlaskForm):
     rainfall = DecimalField('Rainfall(mm): ', validators=[DataRequired()])
     ChooseState = SelectField("State: ", choices= list_of_states)
     submit = SubmitField('Submit')
-@app.route('/', methods=['GET', 'POST'])
+
+class LoginForm(FlaskForm):
+    email = StringField('Email: ')
+    password = StringField('Password: ')
+    submit = SubmitField('Submit')
+
+@app.route('/')
+def home():
+    return render_template('home.html')
+    
+@app.route('/main', methods=['GET', 'POST'])
 def main():
     form = infoform()
     if form.validate_on_submit():
@@ -34,6 +44,37 @@ def main():
 @app.route('/answer')
 def answer():
     return render_template('answer.html')
+
+@app.route('/login')
+def login():
+    return render_template('login.html')
+
+
+@app.route('/register')
+def register():
+    return render_template('register.html')
+
+@app.route('/success_log')
+def success_log():
+    return render_template('login.html')
+
+@app.route('/contact')
+def contact():
+    return render_template('contact.html')
+
+# @app.route('/success')
+# def success():
+#     return render_template('main.html')
+
+@app.route('/success')
+def success():
+    form = LoginForm()
+    if form.validate_on_submit():
+         session['email'] = form.email.data
+         session['password'] = form.password.data
+    return redirect(url_for('main'))
+
+
 
 if __name__ == '__main__':
     app.run(debug=True)

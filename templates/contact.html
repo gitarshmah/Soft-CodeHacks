@@ -51,41 +51,11 @@
         font-size: 1.7rem;
     }
 
-    .helper{
-        margin-top : 40px;
-        margin-bottom : 35px;
-        display : flex;
-        justify-content : center;
-        align-items : center;
-        flex-direction : column;
-        height : 500px;
-        width : 600px;
-        background-color : #a9a7b6;
-        color : #03398D;
-        border-radius : 12px;
-    }
-
-    .result{
-        display : flex;
-        justify-content : center;
-        align-items : center;
-    }
-
-    .newhelper{
-        display : flex;
-        justify-content : center;
-        align-items : center;
-    }
-
-    h1{
-        margin-top : 25px;
-        margin-bottom : 25px;
-        display : flex;
-        text-align : center;
-        justify-content : center;
-        align-items : center;
-        font-size : 34px;
-        color : white;
+    #contact-box{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 34px;
     }
 
 </style>   
@@ -98,23 +68,13 @@
                 <ul>
                    <li><a href="{{ url_for('home') }}">Home</a></li> 
                    <li><a href="{{ url_for('login') }}">Login</a></li>
-                   <li><a href="{{ url_for('register') }}">Register</a></li>
-                   <li><a href="{{ url_for('contact') }}">Contact Us</a></li>
+                   <li><a href="{{ url_for('register') }}">Register</li>
                 </ul>
             </div>
         </nav>
     </header>
-    <center>
-    <div class="helper">
-    <h1 class="result">
-        The result is as follows :-
-    </h1>
-    <p class="newhelper">
-        <ul>
-            <li>{{session['find_secity']}}</li>   
-        </ul>
-    </p>
-   </div>
-</center>
+    <div id="contact-box">
+        
+    </div>
 </body>
 </html>

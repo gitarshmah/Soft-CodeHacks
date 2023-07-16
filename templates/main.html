@@ -1,6 +1,142 @@
-<h1>
-    Welcome to the puppy survey
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+<style>
+    *{
+        margin : 0;
+        padding : 0;
+    }
+    
+    body{
+        background-color: rgb(20, 20, 44);
+        color : white;
+        font-family: 'Poppins' , sans-serif;
+    }
+    
+    nav{
+        display : flex;
+        justify-content : space-around;
+        align-items : center;
+        height : 80px;
+        background-color: rgb(21, 21, 69);
+    }
+    nav ul{
+        display : flex;
+        justify-content: center;
+    }
+    
+    nav ul li{
+        list-style : none;
+        margin : 0px 23px;
+    }
+    
+    nav .right ul li a{
+        color : white;
+        text-decoration: none;
+        font-size : 23px;
+    }
+    
+    nav .right ul li a:hover{
+        color : rgb(137, 137, 175);
+        text-decoration: underline;
+    }
+    
+    .left{
+        font-size: 1.7rem;
+    }
+    
+    .helper{
+        background-color : #a9a7b6;
+        border-radius : 24px;
+        width : 600px;
+        height : 650px;
+        display : flex;
+        justify-content : center;
+        align-items : center;
+        text-align : center;
+        margin-top : 20px;
+        margin-bottom : 50px;
+    } 
+    .FormGroup{
+        display : flex;
+        flex-direction : column;
+        align-items : center;
+        justify-content : center;
+        padding : 16px;
+    }
+    
+    .FormGroup label{
+        font-size : 22px;
+        color : #080421;
+    }
+
+    .FormGroup input{
+        border-radius : 12px;
+        border-color : white;
+        height : 25px;
+        width :  350px;
+        font-size : 20px;
+        cursor : pointer;
+        padding : 10px 8px;
+    }
+
+    .FormGroup input:hover{
+        backgound-color : #adabe0;
+    }
+
+    #Submitnow input{
+        height : 45px;
+        width : 90px;
+        font-size: 18px;
+        font-family: 'Bree Serif', serif;
+        font-weight: bold;
+        background-color: #7571c6;
+        color : white;
+        border-radius : 5px;
+        margin : 0 300px;
+    }
+
+    #Submitnow input:hover{
+        cursor : pointer;
+        background-color : #7481a2;
+        border-color :  #7481a2;
+    }
+
+    h3{
+        margin-top : 25px;
+        margin-bottom : 25px;
+        display : flex;
+        text-align : center;
+        justify-content : center;
+        align-items : center;
+        font-size : 34px;
+        color : white;
+    }
+
+</style>   
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="left">CoderGirls</div>
+            <div class="right">
+                <ul>
+                   <li><a href="/">Home</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <h3>Crop Recommendation System</h3>
+    <center>
+    <div class = "helper">
     <form method="POST">
+        <div class="FormGroup">
         {{form.hidden_tag()}}
         {{form.temperature.label}}{{form.temperature}}
         <br>
@@ -12,9 +148,14 @@
         <br>
         {{form.ChooseState.label}}{{form.ChooseState}}
         <br>
-        
-       
-        {{form.submit()}}
+        </div>
+        <div id="Submitnow">
+           <center> {{form.submit()}} </center>
+        </div>
     </form>
+    </div>
+</center>
+</body>
+</html>
 
-</h1>
+
